@@ -1,0 +1,3857 @@
+WEBVTT
+
+00:00:00.200 --> 00:00:02.320
+Ahí estamos. Sí.
+
+00:00:01.120 --> 00:00:04.360
+Buenas tardes.
+
+00:00:02.320 --> 00:00:05.360
+¿Cómo están? Buenas tardes.
+
+00:00:04.360 --> 00:00:06.160
+Buenas noches.
+
+00:00:05.360 --> 00:00:07.000
+Buenas noches.
+
+00:00:06.160 --> 00:00:08.880
+Puachi.
+
+00:00:07.000 --> 00:00:12.600
+Hola, buenas noches.
+
+00:00:08.880 --> 00:00:16.680
+Ahí estamos ya grabando, iniciando la
+
+00:00:12.600 --> 00:00:18.160
+segunda, nuestra segunda clase práctica.
+
+00:00:16.680 --> 00:00:21.200
+Así que bueno, el día de hoy vamos a
+
+00:00:18.160 --> 00:00:23.640
+estar un poco
+
+00:00:21.200 --> 00:00:27.000
+repasando,
+
+00:00:23.640 --> 00:00:30.200
+revisando lo que los primeros pasos de
+
+00:00:27.000 --> 00:00:32.520
+lo que estuvimos charlando y viendo en
+
+00:00:30.200 --> 00:00:37.200
+lo que fue la primer clase.
+
+00:00:32.520 --> 00:00:37.200
+Eh, vamos a tener
+
+00:00:37.440 --> 00:00:43.040
+vamos a tener este
+
+00:00:40.160 --> 00:00:46.400
+algunos avances significativos hoy. No,
+
+00:00:43.040 --> 00:00:49.440
+no, no en profundidad. porque todavía no
+
+00:00:46.400 --> 00:00:52.680
+tuvimos la clase dos, entonces vamos a a
+
+00:00:49.440 --> 00:00:57.560
+ir de a poco. Sí.
+
+00:00:52.680 --> 00:01:00.560
+Eh, a ver, se me perdí de algo por acá.
+
+00:00:57.560 --> 00:01:03.640
+Bien, bien. Bueno,
+
+00:01:00.560 --> 00:01:05.280
+ahí estamos.
+
+00:01:03.640 --> 00:01:08.560
+Bien, bien. Esto parece que si se activó
+
+00:01:05.280 --> 00:01:11.400
+ahora. Bueno,
+
+00:01:08.560 --> 00:01:13.680
+bienvenido todo el mundo. Ahí vamos a
+
+00:01:11.400 --> 00:01:16.560
+comenzar la clase. Vamos a compartir
+
+00:01:13.680 --> 00:01:16.560
+pantalla.
+
+00:01:17.480 --> 00:01:24.480
+Y vamos a dar inicio.
+
+00:01:21.120 --> 00:01:27.480
+Bien. Bueno, lo primero que teníamos que
+
+00:01:24.480 --> 00:01:27.480
+hacer
+
+00:01:27.680 --> 00:01:33.240
+llev esto para allá. Sí, los puedo ver.
+
+00:01:33.600 --> 00:01:39.440
+Okay, ahí está. Lo primero que teníamos
+
+00:01:36.320 --> 00:01:42.400
+que hacer era tener nuestra herramienta
+
+00:01:39.440 --> 00:01:45.400
+de Visual Studio,
+
+00:01:42.400 --> 00:01:48.720
+¿no? Yo acá acabo de abrir Visual Studio
+
+00:01:45.400 --> 00:01:51.720
+Code. Y para comenzar a trabajar, bueno,
+
+00:01:48.720 --> 00:01:54.360
+vamos a venir a archivo,
+
+00:01:51.720 --> 00:02:00.280
+abrir carpeta y vamos a abrir nuestro
+
+00:01:54.360 --> 00:02:00.280
+espacio de trabajo. Sí. Eh,
+
+00:02:01.760 --> 00:02:08.000
+¿dónde me queda esto? Acá. Ta ta. Yo lo
+
+00:02:05.120 --> 00:02:11.880
+tengo en mi caso, disco D
+
+00:02:08.000 --> 00:02:15.160
+frontend. Y acá habíamos generado una
+
+00:02:11.880 --> 00:02:17.920
+carpetita. Sí.
+
+00:02:15.160 --> 00:02:20.920
+Y este era nuestro espacio de trabajo.
+
+00:02:17.920 --> 00:02:25.240
+Esto fue lo último que estuvimos
+
+00:02:20.920 --> 00:02:28.240
+trabajando. Eh, bueno,
+
+00:02:25.240 --> 00:02:29.960
+eh, como veo que siguen ingresando y voy
+
+00:02:28.240 --> 00:02:33.760
+a aprovechar para que ya que se está
+
+00:02:29.960 --> 00:02:36.400
+grabando, quiero aprovechar para mostrar
+
+00:02:33.760 --> 00:02:37.640
+Discord antes de que de meternos del
+
+00:02:36.400 --> 00:02:39.320
+todo con esto.
+
+00:02:37.640 --> 00:02:43.160
+¿Qué tal? Buenas noches.
+
+00:02:39.320 --> 00:02:46.480
+¿Qué tal? Buenas noches. Sí. Eh,
+
+00:02:43.160 --> 00:02:49.400
+bueno, como ustedes sabrán, por un lado
+
+00:02:46.480 --> 00:02:51.840
+tienen que estar conectados en lo que es
+
+00:02:49.400 --> 00:02:56.600
+el el aula virtual.
+
+00:02:51.840 --> 00:02:59.680
+Sí, ya el día de hoy creo que si no me
+
+00:02:56.600 --> 00:03:01.920
+equivoco el 98%
+
+00:02:59.680 --> 00:03:03.920
+ya está en
+
+00:03:01.920 --> 00:03:08.280
+ya tiene ya tuvo ingreso dentro de la
+
+00:03:03.920 --> 00:03:10.360
+ola virtual, ¿no? Y de paso también
+
+00:03:08.280 --> 00:03:13.360
+recordarles que tenían que hacer el test
+
+00:03:10.360 --> 00:03:15.200
+de empleabilidad y el cuestionario que
+
+00:03:13.360 --> 00:03:17.600
+se encuentra en introducción para
+
+00:03:15.200 --> 00:03:20.080
+desbloquear lo que es la clase uno y
+
+00:03:17.600 --> 00:03:22.120
+dos. Estaba
+
+00:03:20.080 --> 00:03:24.240
+un poco ansiosos para arrancar la clase,
+
+00:03:22.120 --> 00:03:26.800
+por eso arranqué con otro. Ahora sí
+
+00:03:24.240 --> 00:03:31.520
+volvemos, ¿no? Esto cuestionario de
+
+00:03:26.800 --> 00:03:34.000
+introducción y eh desde
+
+00:03:31.520 --> 00:03:37.000
+esto nos va a permitir tener acceso a la
+
+00:03:34.000 --> 00:03:38.640
+clase uno y dos. Hm. Después en la clase
+
+00:03:37.000 --> 00:03:42.200
+dos
+
+00:03:38.640 --> 00:03:44.240
+va a tener un nuevo cuestionario
+
+00:03:42.200 --> 00:03:46.880
+para realizar que va a desbloquear la
+
+00:03:44.240 --> 00:03:48.240
+clase tres y cuatro y así sucesivamente.
+
+00:03:46.880 --> 00:03:52.280
+Sí.
+
+00:03:48.240 --> 00:03:54.800
+Esto repasando, revisando lo que ya
+
+00:03:52.280 --> 00:03:58.760
+estuvimos charlando. Bien, por otro
+
+00:03:54.800 --> 00:04:00.280
+lado, les voy a pedir que
+
+00:03:58.760 --> 00:04:01.960
+igual la clase dos no la tuvimos
+
+00:04:00.280 --> 00:04:05.040
+todavía.
+
+00:04:01.960 --> 00:04:08.320
+No, no, la clase dos no la tuvimos. La
+
+00:04:05.040 --> 00:04:10.200
+vamos a tener el próximo martes. Sí, ya
+
+00:04:08.320 --> 00:04:12.280
+vamos a tener la nuestra segunda clase,
+
+00:04:10.200 --> 00:04:16.360
+martes 31.
+
+00:04:12.280 --> 00:04:19.600
+Bueno, dentro de
+
+00:04:16.360 --> 00:04:23.000
+del servidor de Discord, sí, ustedes
+
+00:04:19.600 --> 00:04:25.680
+pueden, a ver, eh, ya la gran mayoría
+
+00:04:23.000 --> 00:04:29.680
+está dentro del Discord, ahora hay un
+
+00:04:25.680 --> 00:04:31.560
+problema, ¿no? Hay algunas personas
+
+00:04:29.680 --> 00:04:32.960
+que no sé quiénes son, que están dentro
+
+00:04:31.560 --> 00:04:34.560
+del canal de Discord, pero que no sé
+
+00:04:32.960 --> 00:04:38.960
+quiénes son porque figuran así, por
+
+00:04:34.560 --> 00:04:41.120
+ejemplo, con una F, ¿no? O no sé, voy a
+
+00:04:38.960 --> 00:04:44.080
+tirar un nombre cualquiera.
+
+00:04:41.120 --> 00:04:48.440
+Pepe, si
+
+00:04:44.080 --> 00:04:53.440
+en algunos casos hay un solo Pepe en el
+
+00:04:48.440 --> 00:04:56.680
+listado de todos los 300 y tanto que son
+
+00:04:53.440 --> 00:05:00.320
+y bueno, es seguro es el es Pepe. Ahora,
+
+00:04:56.680 --> 00:05:02.960
+hay casos en los que hay cinco siete PP
+
+00:05:00.320 --> 00:05:05.520
+y no puedo saber cuál de esos siete es.
+
+00:05:02.960 --> 00:05:08.840
+Entonces, le voy a pedir ahí que dentro
+
+00:05:05.520 --> 00:05:12.240
+de Discord, en ajuste de usuario,
+
+00:05:08.840 --> 00:05:16.400
+ustedes vayan a la ruedita.
+
+00:05:12.240 --> 00:05:19.760
+No, y acá van a tener ustedes eh me
+
+00:05:16.400 --> 00:05:19.760
+aparece así
+
+00:05:21.400 --> 00:05:27.040
+cuenta mis datos.
+
+00:05:24.560 --> 00:05:30.440
+Momento.
+
+00:05:27.040 --> 00:05:32.920
+En editar perfil.
+
+00:05:30.440 --> 00:05:36.640
+Sí, pero no me aparece
+
+00:05:32.920 --> 00:05:37.880
+el editar perfil está al lado de tu foto
+
+00:05:36.640 --> 00:05:38.800
+en un lapicito.
+
+00:05:37.880 --> 00:05:41.960
+Ahí. Sí,
+
+00:05:38.800 --> 00:05:45.160
+sí. ¿Por qué esto debe ser por lo que
+
+00:05:41.960 --> 00:05:45.160
+estoy transmitiéndome?
+
+00:05:46.400 --> 00:05:50.360
+No, no quiero activar stream.
+
+00:05:51.440 --> 00:05:57.560
+Ahí está. Sí. Bueno, a ustedes no les va
+
+00:05:53.520 --> 00:06:00.920
+a aparecer esto. Eh,
+
+00:05:57.560 --> 00:06:03.880
+en mi cuenta ya les debería aparecer
+
+00:06:00.920 --> 00:06:06.560
+seguridad y estado. Sí.
+
+00:06:03.880 --> 00:06:08.760
+y tienen ahí para editar perfil o
+
+00:06:06.560 --> 00:06:12.280
+también como nos decía ahí la una de las
+
+00:06:08.760 --> 00:06:15.280
+compañeras de las chicas, eh, editar
+
+00:06:12.280 --> 00:06:17.800
+perfil, lleva lo mismo.
+
+00:06:15.280 --> 00:06:20.280
+Y acá nos va a permitir cambiar el
+
+00:06:17.800 --> 00:06:23.280
+nombre, ¿sí? Nuestro nick.
+
+00:06:20.280 --> 00:06:23.280
+Eh,
+
+00:06:23.880 --> 00:06:29.680
+no, no quiero probar eso. No le va a
+
+00:06:26.000 --> 00:06:31.880
+permitir cambiar su nick. Y esto es
+
+00:06:29.680 --> 00:06:35.240
+ustedes pueden si tienen la opción de
+
+00:06:31.880 --> 00:06:38.120
+perfil principal o perfil del servidor.
+
+00:06:35.240 --> 00:06:40.520
+Si vamos a la opción perfil servidor,
+
+00:06:38.120 --> 00:06:43.640
+acá ustedes pueden elegir
+
+00:06:40.520 --> 00:06:47.520
+el el servidor, en el caso de nosotros,
+
+00:06:43.640 --> 00:06:51.440
+la comisión 26126,
+
+00:06:47.520 --> 00:06:55.440
+front JavaScript, ¿no? Y acá escribir su
+
+00:06:51.440 --> 00:06:58.560
+nombre eh completo, ¿sí? O por lo menos
+
+00:06:55.440 --> 00:07:00.480
+nombre y apellido. Sí. Eh, vamos a
+
+00:06:58.560 --> 00:07:03.440
+suponer.
+
+00:07:00.480 --> 00:07:07.680
+Antes decía Pepe, ahora le digo Pepe
+
+00:07:03.440 --> 00:07:09.640
+Juan, no sé, eh, y guarda los cambios y
+
+00:07:07.680 --> 00:07:11.320
+ya me va a aparecer. Voy a voy a poder
+
+00:07:09.640 --> 00:07:16.080
+saber yo quiénes son los que están
+
+00:07:11.320 --> 00:07:18.040
+registrados, ¿no? Voy a dejarlo ahí.
+
+00:07:16.080 --> 00:07:19.960
+Eh,
+
+00:07:18.040 --> 00:07:22.360
+ahí está. si quieren actualizar fotito,
+
+00:07:19.960 --> 00:07:24.840
+portada y todo eso, pero bueno, eso como
+
+00:07:22.360 --> 00:07:27.320
+un detalle ahí para que para todas
+
+00:07:24.840 --> 00:07:30.720
+aquellas personas que que figuren con un
+
+00:07:27.320 --> 00:07:33.840
+nick que sea un apóstrofe o un nombre
+
+00:07:30.720 --> 00:07:37.760
+incompleto, algo así. Sí, eso les voy a
+
+00:07:33.840 --> 00:07:41.240
+pedir a sí eh que lo compartan y lo lo
+
+00:07:37.760 --> 00:07:41.240
+hagan, lo vean.
+
+00:07:41.320 --> 00:07:47.200
+También lo pueden hacer desde el mismo
+
+00:07:42.720 --> 00:07:50.360
+servidor. Sí, sí, sí. Eh,
+
+00:07:47.200 --> 00:07:53.720
+pero bueno, lo veía ahí como una forma
+
+00:07:50.360 --> 00:07:57.560
+fácil y rápida, ¿no?
+
+00:07:53.720 --> 00:08:01.360
+Bien, bueno, eso nada más de Discord
+
+00:07:57.560 --> 00:08:04.600
+y ahora sí, eh, volvamos a lo maestro,
+
+00:08:01.360 --> 00:08:06.880
+¿no? Eh, dudas de del tema este de
+
+00:08:04.600 --> 00:08:08.600
+Discord.
+
+00:08:06.880 --> 00:08:11.040
+Sí,
+
+00:08:08.600 --> 00:08:14.360
+no, fíjese, acá hay un je que no sé si
+
+00:08:11.040 --> 00:08:17.320
+es de EJ, perdón, que no sé si es de
+
+00:08:14.360 --> 00:08:20.240
+esta comisión o es de
+
+00:08:17.320 --> 00:08:22.680
+de de otro lado.
+
+00:08:20.240 --> 00:08:25.120
+Por ahí tengo, no, este sí, esto es de
+
+00:08:22.680 --> 00:08:29.480
+esta comisión.
+
+00:08:25.120 --> 00:08:32.760
+Pero bueno, no sé quién es JJ J, perdón.
+
+00:08:29.480 --> 00:08:34.400
+Nada de eso. Bueno, volviendo a lo
+
+00:08:32.760 --> 00:08:37.440
+nuestro.
+
+00:08:34.400 --> 00:08:39.720
+Volviendo a lo nuestro. Sí,
+
+00:08:37.440 --> 00:08:42.480
+sí, profe. Yo intento ingresar a Discord
+
+00:08:39.720 --> 00:08:46.800
+con el enlace que aparece en el aula
+
+00:08:42.480 --> 00:08:46.800
+virtual y me dice invitación inválida.
+
+00:08:46.880 --> 00:08:54.280
+Eh,
+
+00:08:49.760 --> 00:08:54.280
+a ver, un segundo.
+
+00:09:05.560 --> 00:09:09.720
+¿Alguien más le pasa lo mismo,
+
+00:09:09.760 --> 00:09:15.880
+no? Esto me va a generar una nueva.
+
+00:09:12.560 --> 00:09:17.480
+¿Dónde veía esto?
+
+00:09:15.880 --> 00:09:20.080
+Bueno, ahora lo voy a revisar si no
+
+00:09:17.480 --> 00:09:22.480
+quiero generar un nuevo
+
+00:09:20.080 --> 00:09:25.640
+ahí abajo aparecía para copiar el enlace
+
+00:09:22.480 --> 00:09:25.640
+de invitación.
+
+00:09:29.880 --> 00:09:33.520
+Esta debe ser la nueva
+
+00:09:34.840 --> 00:09:41.840
+y esta es infinita.
+
+00:09:37.480 --> 00:09:41.840
+Sí, está está activa
+
+00:09:46.160 --> 00:09:49.920
+esa la que está en el documento. Ahí
+
+00:09:48.480 --> 00:09:51.120
+prueben. Sí,
+
+00:09:49.920 --> 00:09:51.840
+voy a probar nuevamente entonces.
+
+00:09:51.120 --> 00:09:53.960
+Gracias, profe.
+
+00:09:51.840 --> 00:09:57.440
+Dale, dale.
+
+00:09:53.960 --> 00:10:00.920
+Bueno, eh,
+
+00:09:57.440 --> 00:10:03.800
+bueno, avísenme si si es que no, Isaac,
+
+00:10:00.920 --> 00:10:05.960
+si es que tené problema con eso. Sí. Uy.
+
+00:10:03.800 --> 00:10:08.400
+Okay.
+
+00:10:05.960 --> 00:10:11.200
+Pensé que esto estaba ahí está
+
+00:10:08.400 --> 00:10:12.920
+recibiendo todos.
+
+00:10:11.200 --> 00:10:14.080
+Bueno, me avisan si es que hay gente por
+
+00:10:12.920 --> 00:10:15.760
+entrar. Acabo de ver que
+
+00:10:14.080 --> 00:10:16.680
+Sí, profe, ahí hay gente por entrar.
+
+00:10:15.760 --> 00:10:19.120
+Justo le iba a decir eso.
+
+00:10:16.680 --> 00:10:19.600
+Sí, hay varios que en el en
+
+00:10:19.120 --> 00:10:22.000
+que que están
+
+00:10:19.600 --> 00:10:23.960
+en Discord están hablando.
+
+00:10:22.000 --> 00:10:25.960
+Justo est justo acabo de ver.
+
+00:10:23.960 --> 00:10:26.800
+Buenas, muchas gracias por lo dejarme
+
+00:10:25.960 --> 00:10:29.840
+entrar.
+
+00:10:26.800 --> 00:10:32.440
+Bueno, buenísimo. Bienvenido. Gracias.
+
+00:10:29.840 --> 00:10:34.880
+Disculpen que no no me di cuenta, eh.
+
+00:10:32.440 --> 00:10:37.520
+No, llegué un poco tarde por eso.
+
+00:10:34.880 --> 00:10:41.120
+Ah, no, no pasa nada. Bueno, igual lo
+
+00:10:37.520 --> 00:10:45.360
+que estuvimos charlando al principio fue
+
+00:10:41.120 --> 00:10:48.680
+unas cositas, ¿no? No de la
+
+00:10:45.360 --> 00:10:50.840
+no de la parte práctica, sino de los de
+
+00:10:48.680 --> 00:10:54.360
+exigencias, digamos, de lo que es el
+
+00:10:50.840 --> 00:10:58.200
+cursado. Sí, después
+
+00:10:54.360 --> 00:11:00.120
+véanlo esto, estos minutitos. Bueno, eh
+
+00:10:58.200 --> 00:11:04.160
+acá
+
+00:11:00.120 --> 00:11:06.040
+tenemos dentro de nuestro menú, ¿sí?,
+
+00:11:04.160 --> 00:11:08.480
+dentro de esta botonera, tenemos estos
+
+00:11:06.040 --> 00:11:09.680
+botones que nos permiten acá hacer
+
+00:11:08.480 --> 00:11:12.600
+algunos cambios dentro de la
+
+00:11:09.680 --> 00:11:15.000
+configuración. Sí, por defecto Visual
+
+00:11:12.600 --> 00:11:18.200
+Studio trae
+
+00:11:15.000 --> 00:11:22.320
+hacia la izquierda eh lo que es
+
+00:11:18.200 --> 00:11:25.560
+explorador, eh tensiones,
+
+00:11:22.320 --> 00:11:29.440
+herramientas, etcétera, etcétera. Sí, yo
+
+00:11:25.560 --> 00:11:33.360
+por cosa mía, digamos,
+
+00:11:29.440 --> 00:11:36.040
+me gusta tenerlo a la derecha y
+
+00:11:33.360 --> 00:11:40.120
+manejarme de este lado para todo lo que
+
+00:11:36.040 --> 00:11:43.680
+son las carpetas, eh proyectos,
+
+00:11:40.120 --> 00:11:46.680
+espacios, etcétera, etcétera. Sí. Eh,
+
+00:11:43.680 --> 00:11:52.560
+esta opción no tenemos barra de menú
+
+00:11:46.680 --> 00:11:55.320
+lateral, eh para el eh terminal, tenemos
+
+00:11:52.560 --> 00:11:58.040
+el lado, bueno, dependiendo de cómo lo
+
+00:11:55.320 --> 00:12:02.520
+configuren, chat y tienen esta opción
+
+00:11:58.040 --> 00:12:06.560
+que no izquierda o derecha donde va a ir
+
+00:12:02.520 --> 00:12:09.760
+lo que se lo que es el explorador y las
+
+00:12:06.560 --> 00:12:11.800
+extensiones y todo lo demás. Sí, eso.
+
+00:12:09.760 --> 00:12:14.720
+Detalle por ahí si van a notar que yo
+
+00:12:11.800 --> 00:12:18.040
+tengo al revés de lo que ustedes tienen.
+
+00:12:14.720 --> 00:12:19.840
+Eh, nada, eso
+
+00:12:18.040 --> 00:12:24.600
+nadie por
+
+00:12:19.840 --> 00:12:29.760
+bien. Eh, así.
+
+00:12:24.600 --> 00:12:29.760
+Bueno, entonces para para
+
+00:12:30.840 --> 00:12:34.400
+comenzar a trabajar,
+
+00:12:38.280 --> 00:12:44.280
+¿no? Vamos a recordar cómo trabajábamos,
+
+00:12:40.800 --> 00:12:46.600
+clic derecho dentro de rador, ¿no?
+
+00:12:44.280 --> 00:12:50.000
+Obteníamos esta carpetita
+
+00:12:46.600 --> 00:12:52.240
+y generábamos el nombre de eh
+
+00:12:50.000 --> 00:12:53.920
+repositorio, o nuestro nuevo proyecto.
+
+00:12:52.240 --> 00:12:56.120
+Sí.
+
+00:12:53.920 --> 00:13:00.640
+Estamos.
+
+00:12:56.120 --> 00:13:00.880
+Sí. Y ahí estamos, ¿no?
+
+00:13:00.640 --> 00:13:03.200
+Sí.
+
+00:13:00.880 --> 00:13:05.960
+Y ahora sí,
+
+00:13:03.200 --> 00:13:08.720
+clic derecho o el la opción de la
+
+00:13:05.960 --> 00:13:10.800
+carpeta y vamos a escribir acá el
+
+00:13:08.720 --> 00:13:13.600
+nombre. En este clas caso vamos a
+
+00:13:10.800 --> 00:13:16.760
+escribir after dos,
+
+00:13:13.600 --> 00:13:19.720
+va a ser referido a la clase de hoy. Y
+
+00:13:16.760 --> 00:13:22.720
+dentro de esto ya podemos comenzar a
+
+00:13:19.720 --> 00:13:22.720
+trabajar
+
+00:13:23.160 --> 00:13:30.560
+lo que serían eh la la lección práctica
+
+00:13:27.760 --> 00:13:33.400
+de de hoy con la que estaremos
+
+00:13:30.560 --> 00:13:35.400
+comenzando a trabajar. Sí,
+
+00:13:33.400 --> 00:13:37.760
+internamente voy a crear una nueva
+
+00:13:35.400 --> 00:13:39.560
+carpeta siempre parado dentro de After
+
+00:13:37.760 --> 00:13:41.680
+Do
+
+00:13:39.560 --> 00:13:44.480
+que le vamos a llamar
+
+00:13:41.680 --> 00:13:46.040
+lección o ejemplo,
+
+00:13:44.480 --> 00:13:49.440
+llamar
+
+00:13:46.040 --> 00:13:52.720
+ejemplo uno o lección uno,
+
+00:13:49.440 --> 00:13:56.200
+¿no? Y dentro de ejemplo uno vamos a
+
+00:13:52.720 --> 00:14:01.720
+generar un nuevo archivo al cual voy a
+
+00:13:56.200 --> 00:14:04.720
+llamar index. ¿Sí? Recuerden acá tener
+
+00:14:01.720 --> 00:14:06.320
+nuestro archivo index escrito en
+
+00:14:04.720 --> 00:14:09.840
+minúscula
+
+00:14:06.320 --> 00:14:13.120
+y no olviden escribir la extensión. Sí,
+
+00:14:09.840 --> 00:14:16.120
+eso es fundamental tenerlo
+
+00:14:13.120 --> 00:14:18.240
+a la hora de eh
+
+00:14:16.120 --> 00:14:20.400
+de trabajar.
+
+00:14:18.240 --> 00:14:23.320
+Bueno, tenemos acá nuestro índex, ¿sí? Y
+
+00:14:20.400 --> 00:14:25.480
+ya por defecto al crear el archivo ya me
+
+00:14:23.320 --> 00:14:28.240
+está abriendo
+
+00:14:25.480 --> 00:14:31.880
+el archivo index html.
+
+00:14:28.240 --> 00:14:34.080
+Sí. Entonces, acá, ¿cómo construíamos
+
+00:14:31.880 --> 00:14:36.720
+nuestro documento HTML?
+
+00:14:34.080 --> 00:14:40.040
+Eh, como vista rápida. Abreviación de
+
+00:14:36.720 --> 00:14:42.240
+Emet, signo de interrogación y fíjense
+
+00:14:40.040 --> 00:14:45.320
+que acá me dice qué es lo que estoy por
+
+00:14:42.240 --> 00:14:48.520
+construir, ¿no? Viene a ser la
+
+00:14:45.320 --> 00:14:52.080
+estructura o el esqueleto de nuestro
+
+00:14:48.520 --> 00:14:52.080
+documento HTML.
+
+00:14:55.960 --> 00:15:01.000
+¿Qué es lo que vamos a ver acá?
+
+00:14:58.560 --> 00:15:03.560
+Bueno,
+
+00:15:01.000 --> 00:15:07.600
+este código que nos está apareciendo
+
+00:15:03.560 --> 00:15:11.560
+acá, este texto nos indica primero
+
+00:15:07.600 --> 00:15:13.560
+en la primer línea doc HTML nos indica
+
+00:15:11.560 --> 00:15:16.560
+de que estamos por trabajar un documento
+
+00:15:13.560 --> 00:15:19.240
+de tipo HTML. ¿A quién le indica esto?
+
+00:15:16.560 --> 00:15:22.240
+En definitiva, ¿a quién le interesa y
+
+00:15:19.240 --> 00:15:23.680
+quién es el que va a leer esto?
+
+00:15:22.240 --> 00:15:27.960
+es servidor,
+
+00:15:23.680 --> 00:15:30.920
+el navegador en este caso,
+
+00:15:27.960 --> 00:15:33.320
+eh, que es quien va a renderizar esta
+
+00:15:30.920 --> 00:15:36.080
+página, es quien hace la lectura y
+
+00:15:33.320 --> 00:15:38.280
+transforma esto en algo visual para
+
+00:15:36.080 --> 00:15:41.480
+nosotros.
+
+00:15:38.280 --> 00:15:43.200
+Admiritiendo. Entonces, esto es lo que
+
+00:15:41.480 --> 00:15:47.520
+le indica al navegador. Va a trabajar un
+
+00:15:43.200 --> 00:15:50.080
+documento de tipo HTML 5, ¿no? Después
+
+00:15:47.520 --> 00:15:52.760
+estaría indicando la apertura de nuestro
+
+00:15:50.080 --> 00:15:54.800
+documento HTML. y nos indica acá el
+
+00:15:52.760 --> 00:15:58.040
+lenguaje. Esto lo podemos modificar acá
+
+00:15:54.800 --> 00:16:01.600
+a español o lo podemos eliminar, no pasa
+
+00:15:58.040 --> 00:16:03.960
+nada porque luego
+
+00:16:01.600 --> 00:16:07.880
+uno puede indicar dentro de las
+
+00:16:03.960 --> 00:16:14.680
+etiquetas eh dentro del GAT, sí, dentro
+
+00:16:07.880 --> 00:16:17.040
+del GAT uno puede eh indicar cuál es el
+
+00:16:14.680 --> 00:16:20.880
+idioma con el que se va a a trabajar o a
+
+00:16:17.040 --> 00:16:22.720
+construir en esta página. Sí.
+
+00:16:20.880 --> 00:16:24.280
+¿Qué es lo que vamos a a encontrar
+
+00:16:22.720 --> 00:16:25.640
+dentro de las etiquetas meta? Bueno,
+
+00:16:24.280 --> 00:16:28.560
+dentro de las etiquetas meta vamos a
+
+00:16:25.640 --> 00:16:30.120
+encontrar información relevante
+
+00:16:28.560 --> 00:16:33.560
+importante
+
+00:16:30.120 --> 00:16:36.440
+que en sí a quién le interesa esto, a
+
+00:16:33.560 --> 00:16:41.280
+quién le le resulta interesante,
+
+00:16:36.440 --> 00:16:44.200
+importante, es en especial al CO de los
+
+00:16:41.280 --> 00:16:47.840
+eh motores de búsqueda. ¿Sí? Entonces
+
+00:16:44.200 --> 00:16:50.920
+acá nosotros vamos a indicar eh bueno,
+
+00:16:47.840 --> 00:16:55.760
+cómo se escribe el eh documento. Sí,
+
+00:16:50.920 --> 00:16:58.880
+vamos a indicar cómo eh si esto es
+
+00:16:55.760 --> 00:17:01.360
+adaptable o no distintto dispositivo, el
+
+00:16:58.880 --> 00:17:05.120
+lenguaje, cuál es la palabra clave, de
+
+00:17:01.360 --> 00:17:08.680
+qué trata el documento, eh si está
+
+00:17:05.120 --> 00:17:11.200
+indexado o no, si la fecha de creación,
+
+00:17:08.680 --> 00:17:13.960
+de subida, de actualización, sí,
+
+00:17:11.200 --> 00:17:16.680
+contenido que le sirve al al motor de
+
+00:17:13.960 --> 00:17:19.800
+búsqueda en particular, ¿no? Por otro
+
+00:17:16.680 --> 00:17:22.960
+lado, tenemos el title que viene a ser a
+
+00:17:19.800 --> 00:17:26.560
+representar lo que va a ser el nombre
+
+00:17:22.960 --> 00:17:30.840
+que se va a visualizar en la página
+
+00:17:26.560 --> 00:17:33.960
+cuando nosotros hacemos esto.
+
+00:17:30.840 --> 00:17:37.080
+Ah, perdón, clic derecho dentro del del
+
+00:17:33.960 --> 00:17:39.560
+H documento
+
+00:17:37.080 --> 00:17:42.560
+y vamos a la opción open with Live
+
+00:17:39.560 --> 00:17:46.720
+Server. Sí. Y esto me estaría viendo
+
+00:17:42.560 --> 00:17:48.640
+aquí. Hm. En este caso, simplemente me
+
+00:17:46.720 --> 00:17:50.200
+va a mostrar el nombre del documento. Es
+
+00:17:48.640 --> 00:17:53.760
+un documento vacío. Todavía no le
+
+00:17:50.200 --> 00:17:58.160
+agregamos nada, ¿no? Pero si yo cambio,
+
+00:17:53.760 --> 00:18:01.240
+modifico esto, acá va a aparecer
+
+00:17:58.160 --> 00:18:04.840
+el nombre del sitio.
+
+00:18:01.240 --> 00:18:08.680
+Sí, guardamos los cambios.
+
+00:18:04.840 --> 00:18:11.760
+Control S es la abreviación.
+
+00:18:08.680 --> 00:18:14.400
+O bien pueden tener activada la opción
+
+00:18:11.760 --> 00:18:17.680
+de autoguardado. Sí, por ahora tener el
+
+00:18:14.400 --> 00:18:20.280
+autoguardado nos viene bárbaro. Más
+
+00:18:17.680 --> 00:18:22.400
+adelante ya sí nos podría traer
+
+00:18:20.280 --> 00:18:24.240
+inconveniente, pero bueno, vamos a
+
+00:18:22.400 --> 00:18:26.520
+nuestro nombre de sitio. Fíjense que
+
+00:18:24.240 --> 00:18:29.800
+antes aparecía
+
+00:18:26.520 --> 00:18:32.160
+documento o document y ahora sí ya nos
+
+00:18:29.800 --> 00:18:35.680
+aparece acá nombre del sitio. No sé si
+
+00:18:32.160 --> 00:18:35.680
+lo llegan a ver.
+
+00:18:36.240 --> 00:18:41.880
+grandlo.
+
+00:18:38.480 --> 00:18:45.360
+Bueno, tenía ahí
+
+00:18:41.880 --> 00:18:47.680
+bárbaro. Bien, lo siguiente, dentro del
+
+00:18:45.360 --> 00:18:50.520
+G, entonces
+
+00:18:47.680 --> 00:18:54.720
+no vamos a escribir nada nosotros que
+
+00:18:50.520 --> 00:18:56.600
+vaya a ser visible para el el usuario
+
+00:18:54.720 --> 00:18:58.320
+final o para el cliente. ¿Sí? Entonces,
+
+00:18:56.600 --> 00:19:00.440
+esto vamos a hacer así.
+
+00:18:58.320 --> 00:19:03.440
+escribe
+
+00:19:00.440 --> 00:19:03.440
+eh
+
+00:19:05.200 --> 00:19:09.440
+este es el símbolo para hacer
+
+00:19:07.360 --> 00:19:11.560
+comentarios. Sí. ¿Cómo lo hago
+
+00:19:09.440 --> 00:19:15.200
+rápidamente? ¿Cómo lo hago rápidamente
+
+00:19:11.560 --> 00:19:17.880
+para no tener que estar escribiendo eh
+
+00:19:15.200 --> 00:19:21.040
+cada una de estas líneas de este código?
+
+00:19:17.880 --> 00:19:23.000
+Ahí lo escribo. Voy a presionar la tecla
+
+00:19:21.040 --> 00:19:25.040
+control.
+
+00:19:23.000 --> 00:19:27.800
+Hm.
+
+00:19:25.040 --> 00:19:31.160
+Luego
+
+00:19:27.800 --> 00:19:35.040
+eh luego K
+
+00:19:31.160 --> 00:19:39.360
+y luego eh
+
+00:19:35.040 --> 00:19:41.040
+C de casa. Sí. Control
+
+00:19:39.360 --> 00:19:43.760
+K
+
+00:19:41.040 --> 00:19:49.560
+y después
+
+00:19:43.760 --> 00:19:52.560
+control má C. Sí. Hay otras formas
+
+00:19:49.560 --> 00:19:52.560
+de
+
+00:19:53.680 --> 00:19:58.880
+simplificar esto de de construir el
+
+00:20:00.760 --> 00:20:08.960
+ahí eh lo que es eh la forma de de hacer
+
+00:20:05.160 --> 00:20:10.880
+comentario. Sí, esta es la que yo uso
+
+00:20:08.960 --> 00:20:14.520
+comúnmente. Después si ustedes
+
+00:20:10.880 --> 00:20:14.520
+seleccionan mucho,
+
+00:20:15.200 --> 00:20:19.960
+no me acuerdo cómo seleccionado mucho,
+
+00:20:21.680 --> 00:20:24.960
+había otras
+
+00:20:25.440 --> 00:20:30.080
+tres personas para ingresar. Sí,
+
+00:20:35.920 --> 00:20:42.280
+estamos. Pero bueno, por ahora nos sirve
+
+00:20:38.680 --> 00:20:44.760
+esta forma de trabajar.
+
+00:20:42.280 --> 00:20:48.640
+Eh,
+
+00:20:44.760 --> 00:20:50.640
+bueno, no importa. Entonces, esto el GE
+
+00:20:48.640 --> 00:20:54.080
+es para tener el encabeza del documento,
+
+00:20:50.640 --> 00:20:56.440
+no es visible para el usuario, salvo
+
+00:20:54.080 --> 00:20:59.640
+excepto la parte del título. Sí, el
+
+00:20:56.440 --> 00:21:02.160
+título o el Fabicon, que ya más adelante
+
+00:20:59.640 --> 00:21:04.480
+vamos a ver qué es el Fabicon o a qué
+
+00:21:02.160 --> 00:21:07.640
+nos referimos con el Fab. Luego dentro
+
+00:21:04.480 --> 00:21:10.320
+de body, ¿sí?
+
+00:21:07.640 --> 00:21:14.680
+Vamos a tener
+
+00:21:10.320 --> 00:21:14.680
+eh el cuerpo,
+
+00:21:16.480 --> 00:21:23.120
+el cuerpo del documento, ¿qué es lo que
+
+00:21:19.640 --> 00:21:26.120
+en sí se va a visualizar? Lo que vamos a
+
+00:21:23.120 --> 00:21:26.120
+visualizar.
+
+00:21:26.600 --> 00:21:30.920
+¿Va siguiendo, no? Acá es un poco repaso
+
+00:21:29.240 --> 00:21:32.760
+de lo que ya estuvimos charlando y
+
+00:21:30.920 --> 00:21:34.360
+hablando.
+
+00:21:32.760 --> 00:21:36.920
+Bien, vamos a comenzar por las
+
+00:21:34.360 --> 00:21:39.680
+etiquetas.
+
+00:21:36.920 --> 00:21:42.040
+básicas, digamos, sí, etiquetas básicas
+
+00:21:39.680 --> 00:21:45.200
+que nosotros llegamos a ver fueron las
+
+00:21:42.040 --> 00:21:48.800
+etiquetas de título, que eran las H
+
+00:21:45.200 --> 00:21:51.680
+desde 1 hasta 6, ¿no? Que era eh tenía
+
+00:21:48.800 --> 00:21:53.360
+que ver con eh
+
+00:21:51.680 --> 00:21:56.760
+la estructura y la jerarquía que va a
+
+00:21:53.360 --> 00:22:01.000
+tener los diferentes títulos en nuestro
+
+00:21:56.760 --> 00:22:05.200
+sitio. Sí, recuerden que un documento
+
+00:22:01.000 --> 00:22:07.440
+HTML debería tener un único H1, ¿sí? que
+
+00:22:05.200 --> 00:22:10.480
+es viene a ser como el título principal
+
+00:22:07.440 --> 00:22:14.400
+de de nuestra página. Después H2, H3,
+
+00:22:10.480 --> 00:22:18.280
+etcétera, etcétera, vamos a encontrar
+
+00:22:14.400 --> 00:22:20.360
+podemos tener un montón, ¿sí? Eh, pero
+
+00:22:18.280 --> 00:22:22.640
+eh un sitio bien escrito tendría que
+
+00:22:20.360 --> 00:22:24.920
+tener un único H1.
+
+00:22:22.640 --> 00:22:27.800
+Eh,
+
+00:22:24.920 --> 00:22:33.640
+en mi experiencia no no llegué a ver más
+
+00:22:27.800 --> 00:22:36.640
+de un H4 5 y 6, por lo menos yo no me
+
+00:22:33.640 --> 00:22:39.320
+tocó trabajar o o tener la necesidad de
+
+00:22:36.640 --> 00:22:44.880
+de llegar a tal
+
+00:22:39.320 --> 00:22:48.880
+eh hasta tanto, sí, pero sí H1, 2 y 3
+
+00:22:44.880 --> 00:22:51.880
+hasta cu son es común. Eh, entonces esto
+
+00:22:48.880 --> 00:22:51.880
+indica
+
+00:22:52.400 --> 00:22:58.160
+indica el
+
+00:22:55.640 --> 00:23:00.080
+título de sitio.
+
+00:22:58.160 --> 00:23:02.880
+Después tenemos
+
+00:23:00.080 --> 00:23:07.440
+como etiquetas comunes y útiles las
+
+00:23:02.880 --> 00:23:10.880
+etiquetas de tipo párrafo. Hm.
+
+00:23:07.440 --> 00:23:10.880
+Esto va a indicar
+
+00:23:12.560 --> 00:23:17.600
+texto que vamos a tener dentro de
+
+00:23:15.280 --> 00:23:19.680
+nuestra página. Sí, este texto puede ser
+
+00:23:17.600 --> 00:23:24.680
+de cualquier índole.
+
+00:23:19.680 --> 00:23:27.680
+De todas maneras, esto nos indica eh
+
+00:23:24.680 --> 00:23:27.680
+contenido
+
+00:23:28.520 --> 00:23:35.120
+dentro del sitio. Sí,
+
+00:23:32.280 --> 00:23:37.800
+dentro del sitio nosotros podemos tener
+
+00:23:35.120 --> 00:23:40.040
+la cantidad,
+
+00:23:37.800 --> 00:23:42.520
+digamos, no existe una restricción en
+
+00:23:40.040 --> 00:23:45.040
+cuanto a lo que es párrafo para escribir
+
+00:23:42.520 --> 00:23:46.640
+dentro de de del sitio. Sí, podemos
+
+00:23:45.040 --> 00:23:48.880
+tener un montón de powerf y no vamos a
+
+00:23:46.640 --> 00:23:51.800
+tener ningún tipo de inconveniente
+
+00:23:48.880 --> 00:23:55.200
+para completar texto. Yo les recomiendo
+
+00:23:51.800 --> 00:23:57.360
+utilizar el la abreviación delet Laoren
+
+00:23:55.200 --> 00:24:01.360
+que viene de loren ipsum que esto lo que
+
+00:23:57.360 --> 00:24:03.280
+hace es ustedes escriben loren y al
+
+00:24:01.360 --> 00:24:07.760
+presionar enter esto nos va a generar
+
+00:24:03.280 --> 00:24:11.080
+texto, ¿sí? Texto a gran escala. Hm. Acá
+
+00:24:07.760 --> 00:24:13.120
+si nosotros escribimos lorem eh, por
+
+00:24:11.080 --> 00:24:14.720
+ejemplo,
+
+00:24:13.120 --> 00:24:18.040
+ocho, ¿sí?
+
+00:24:14.720 --> 00:24:21.440
+lo que va a hacer es generar
+
+00:24:18.040 --> 00:24:24.800
+ocho palabras. Hm. Digamos que sería un
+
+00:24:21.440 --> 00:24:27.240
+texto corto. Si queremos
+
+00:24:24.800 --> 00:24:30.720
+agregar mucho contenido, mucho
+
+00:24:27.240 --> 00:24:34.160
+contenido, lo que haría es un loren, por
+
+00:24:30.720 --> 00:24:36.720
+ejemplo, por 10. Entonces, esto me
+
+00:24:34.160 --> 00:24:40.080
+estaría generando
+
+00:24:36.720 --> 00:24:42.400
+10 eh
+
+00:24:40.080 --> 00:24:44.520
+párrafos a pesar de que no lo vamos a
+
+00:24:42.400 --> 00:24:47.080
+poder visualizar porque tenemos lo
+
+00:24:44.520 --> 00:24:49.640
+tenemos dentro de un único
+
+00:24:47.080 --> 00:24:54.440
+de un único párrafo, ¿no? Fíjense si yo
+
+00:24:49.640 --> 00:24:56.320
+esto a ver esto
+
+00:24:54.440 --> 00:24:57.920
+eh
+
+00:24:56.320 --> 00:25:01.320
+13
+
+00:24:57.920 --> 00:25:04.440
+ahí, ¿no? Fíjense, yo tengo acá un
+
+00:25:01.320 --> 00:25:06.360
+párrafo, otro párrafo, otro párrafo y si
+
+00:25:04.440 --> 00:25:09.960
+voy contando entre los altos de línea
+
+00:25:06.360 --> 00:25:12.160
+voy a tener 10. Ahora, visualmente tengo
+
+00:25:09.960 --> 00:25:14.680
+para el navegador tengo un único párrafo
+
+00:25:12.160 --> 00:25:17.400
+acá que contiene un montón de líneas.
+
+00:25:14.680 --> 00:25:19.680
+Veámoslo.
+
+00:25:17.400 --> 00:25:22.280
+Podemos volver a nuestro navegador a ver
+
+00:25:19.680 --> 00:25:24.000
+todo lo que escribimos. Ahí ya le ya le
+
+00:25:22.280 --> 00:25:28.080
+les doy la la palabra para que
+
+00:25:24.000 --> 00:25:30.240
+pregunten. O bien o bien ustedes
+
+00:25:28.080 --> 00:25:32.520
+recordarán que habíamos agregado también
+
+00:25:30.240 --> 00:25:35.880
+la extensión de
+
+00:25:32.520 --> 00:25:38.680
+Live Server Preview, ¿sí? Donde podemos
+
+00:25:35.880 --> 00:25:42.600
+venir a la opción de ver paleta de
+
+00:25:38.680 --> 00:25:45.120
+comandos o control más la tecla
+
+00:25:42.600 --> 00:25:49.520
+mayúscula más la tecla P.
+
+00:25:45.120 --> 00:25:51.440
+escriben like server preview
+
+00:25:49.520 --> 00:25:53.360
+y esto nos va a editar, nos va a ir
+
+00:25:51.440 --> 00:25:58.560
+mostrando lo que estamos escribiendo.
+
+00:25:53.360 --> 00:26:02.400
+Sí. A ver, pregunten, así
+
+00:25:58.560 --> 00:26:02.400
+vamos saliendo de las dudas.
+
+00:26:03.240 --> 00:26:07.640
+Hola, profe, ¿cómo estás? Soy Lore.
+
+00:26:05.840 --> 00:26:09.400
+¿Cómo estás, Lore? Bien,
+
+00:26:07.640 --> 00:26:10.920
+bien. ¿Vos?
+
+00:26:09.400 --> 00:26:15.400
+Bien, bien.
+
+00:26:10.920 --> 00:26:18.520
+Bueno, e yo esto de Loreno mucho. O sea,
+
+00:26:15.400 --> 00:26:21.000
+vos pones la palabra Loren y ahí ponés
+
+00:26:18.520 --> 00:26:23.520
+una frase o lo que quieras vos escribir
+
+00:26:21.000 --> 00:26:25.240
+y después es como una etiqueta, un
+
+00:26:23.520 --> 00:26:28.120
+loren, una cosa así. Eso es lo que no
+
+00:26:25.240 --> 00:26:29.800
+entiendo bien, el uso que le das aloren,
+
+00:26:28.120 --> 00:26:33.080
+¿no? Se remonta la época de la
+
+00:26:29.800 --> 00:26:35.720
+escarapela en HTML, que es una especie
+
+00:26:33.080 --> 00:26:38.960
+de texto en latín que se usaba para
+
+00:26:35.720 --> 00:26:41.440
+rellenar los TXT y ese tipo de cosas.
+
+00:26:38.960 --> 00:26:43.880
+El Loren lo que te hace es simula texto
+
+00:26:41.440 --> 00:26:46.120
+para que vos veas cómo te va quedando la
+
+00:26:43.880 --> 00:26:47.680
+frase dentro del front que estás
+
+00:26:46.120 --> 00:26:49.560
+haciendo.
+
+00:26:47.680 --> 00:26:52.920
+Sirve para completar, para agregar
+
+00:26:49.560 --> 00:26:55.040
+contenido. Viste que por ahí uno está,
+
+00:26:52.920 --> 00:26:58.280
+digamos, practicando
+
+00:26:55.040 --> 00:27:00.400
+y no tenés un tema en sí, pero querés
+
+00:26:58.280 --> 00:27:02.480
+practicar y querés armar algo, entonces
+
+00:27:00.400 --> 00:27:04.960
+vas completando ahí contexto.
+
+00:27:02.480 --> 00:27:09.360
+Es es como una herramienta de relleno
+
+00:27:04.960 --> 00:27:12.760
+para para Okay, listo, ya. Era
+
+00:27:09.360 --> 00:27:14.160
+la misma duda, José.
+
+00:27:12.760 --> 00:27:16.040
+Sí, correcto. Era la misma duda.
+
+00:27:14.160 --> 00:27:17.840
+Ah, bueno, claro.
+
+00:27:16.040 --> 00:27:19.880
+Yo entendí, perdón, profe, yo entendí
+
+00:27:17.840 --> 00:27:23.600
+que que el texto lo escribíamos
+
+00:27:19.880 --> 00:27:25.640
+nosotros, no era que un texto aleatorio.
+
+00:27:23.600 --> 00:27:29.120
+Eh, no, en este caso es porque estamos
+
+00:27:25.640 --> 00:27:31.000
+mostrando, estamos arrancando, ¿no? Eh,
+
+00:27:29.120 --> 00:27:31.680
+es como para ir armando algo. Ustedes
+
+00:27:31.000 --> 00:27:33.680
+vieron que al principio,
+
+00:27:31.680 --> 00:27:34.720
+¿no? Ese texto está predeterminado, es
+
+00:27:33.680 --> 00:27:37.120
+viejo.
+
+00:27:34.720 --> 00:27:39.960
+Sí, sí. Al principio yo fui escribiendo
+
+00:27:37.120 --> 00:27:42.040
+lo que correspondía, digamos, al al
+
+00:27:39.960 --> 00:27:45.600
+título, al párrafo, pero ya cuando ya
+
+00:27:42.040 --> 00:27:47.520
+tengo que escribir mucho eh, para ganar
+
+00:27:45.600 --> 00:27:50.240
+tiempo y agilizar directamente,
+
+00:27:47.520 --> 00:27:51.960
+aprovecho el Loren que me me complete y
+
+00:27:50.240 --> 00:27:53.840
+ahí de paso le tiro unos tips de
+
+00:27:51.960 --> 00:27:56.280
+autocompletado para que vayamos viendo
+
+00:27:53.840 --> 00:27:57.880
+las diferencias, pero es eso mi
+
+00:27:56.280 --> 00:28:00.320
+pregunta, ¿de dónde saco el texto? O
+
+00:27:57.880 --> 00:28:01.480
+sea, el texto lo escribo yo y después se
+
+00:28:00.320 --> 00:28:03.720
+copia ahí. O
+
+00:28:01.480 --> 00:28:04.600
+en este caso el Loren te genera el texto
+
+00:28:03.720 --> 00:28:06.640
+automático.
+
+00:28:04.600 --> 00:28:07.080
+El Loren Ipsum ya viene precargado.
+
+00:28:06.640 --> 00:28:07.680
+Loré,
+
+00:28:07.080 --> 00:28:10.080
+claro.
+
+00:28:07.680 --> 00:28:12.840
+No lo tenés que escribir, tenés que
+
+00:28:10.080 --> 00:28:14.800
+poner Loren nada más y ya te lo trae.
+
+00:28:12.840 --> 00:28:17.240
+Ah, okay, okay, okay.
+
+00:28:14.800 --> 00:28:18.040
+Solo te lo va generando. Sí. No, no.
+
+00:28:17.240 --> 00:28:20.000
+Okay,
+
+00:28:18.040 --> 00:28:21.880
+se preocúpense por eso.
+
+00:28:20.000 --> 00:28:24.520
+Eh,
+
+00:28:21.880 --> 00:28:27.640
+es más, ni me puse a leer alguna vez ni
+
+00:28:24.520 --> 00:28:30.320
+qué dice, eh, porque es simplemente para
+
+00:28:27.640 --> 00:28:32.200
+mostrar cómo rellenar contenido, con
+
+00:28:30.320 --> 00:28:34.080
+texto y nada más. Sí,
+
+00:28:32.200 --> 00:28:35.960
+es un texto en latín que ni se sabe ya
+
+00:28:34.080 --> 00:28:41.120
+esta altura de dónde se sacó.
+
+00:28:35.960 --> 00:28:46.480
+Sí. Así que bueno, eh, José Luis, vos,
+
+00:28:41.120 --> 00:28:48.360
+eh, perdón, ¿podemos eh quisiera si
+
+00:28:46.480 --> 00:28:50.560
+podemos darle un poco más de dinamismo
+
+00:28:48.360 --> 00:28:53.640
+al al
+
+00:28:50.560 --> 00:28:57.600
+curso, digamos, cómo hacemos un un
+
+00:28:53.640 --> 00:28:57.600
+cuadro diálogo modal?
+
+00:28:57.840 --> 00:29:01.800
+Ya vamos a llegar a eso. Sí, ya vamos a
+
+00:28:59.560 --> 00:29:05.200
+llegar a eso. Eh, justamente quiero
+
+00:29:01.800 --> 00:29:09.720
+partir de de las bases bien, porque la
+
+00:29:05.200 --> 00:29:13.080
+tuvimos muy poquito contenido teórico y
+
+00:29:09.720 --> 00:29:14.840
+así, bueno, ya vamos a ir a eso. Sí. Eh,
+
+00:29:13.080 --> 00:29:17.040
+pero bueno, lo importante es entender
+
+00:29:14.840 --> 00:29:19.840
+esto, ¿sí? las primeras etiquetas
+
+00:29:17.040 --> 00:29:22.960
+justamente para poder avanzar, para
+
+00:29:19.840 --> 00:29:26.160
+poder ir un poquito más allá, ¿no? Esto
+
+00:29:22.960 --> 00:29:29.200
+es nada más que para generar pruebas y
+
+00:29:26.160 --> 00:29:32.520
+autorellenar con contenido, nada más.
+
+00:29:29.200 --> 00:29:36.520
+Eh, vamos a cerrar y vamos a ver bien
+
+00:29:32.520 --> 00:29:39.640
+hasta ahí un poco repaso un poco mostrar
+
+00:29:36.520 --> 00:29:41.840
+la estructura de cómo generar eh
+
+00:29:39.640 --> 00:29:44.720
+contenido, de cómo generar texto,
+
+00:29:41.840 --> 00:29:49.320
+código, ¿no? Y lo que les decía, fíjense
+
+00:29:44.720 --> 00:29:52.320
+que acá tengo mucho, mucho texto
+
+00:29:49.320 --> 00:29:54.040
+que visualmente dentro de Visual Studio
+
+00:29:52.320 --> 00:29:56.600
+son diferentes párrafos, pero cuando yo
+
+00:29:54.040 --> 00:29:59.920
+voy al navegador tengo un solo párrafo
+
+00:29:56.600 --> 00:30:02.120
+gigante, ¿no? Esto nosotros ya lo
+
+00:29:59.920 --> 00:30:04.880
+estuvimos charlando, probablemente
+
+00:30:02.120 --> 00:30:07.200
+algunos lo recuerden y otros no.
+
+00:30:04.880 --> 00:30:10.160
+La forma de ir individualizando cada uno
+
+00:30:07.200 --> 00:30:13.560
+de estos párrafos,
+
+00:30:10.160 --> 00:30:16.600
+eh la forma correcta sería, sí, la forma
+
+00:30:13.560 --> 00:30:19.440
+correcta sería agregar
+
+00:30:16.600 --> 00:30:22.400
+e
+
+00:30:19.440 --> 00:30:26.720
+separar separar cada uno de estos
+
+00:30:22.400 --> 00:30:29.200
+párrafos para eh
+
+00:30:26.720 --> 00:30:32.720
+separar cada uno de estos párrafos para
+
+00:30:29.200 --> 00:30:34.080
+que así se eh el navegador no me muestre
+
+00:30:32.720 --> 00:30:36.280
+todo este texto.
+
+00:30:34.080 --> 00:30:40.880
+como si fuera un un solo texto de
+
+00:30:36.280 --> 00:30:42.600
+corrido, ¿no? Ahora, si tenemos la
+
+00:30:40.880 --> 00:30:45.920
+necesidad
+
+00:30:42.600 --> 00:30:49.000
+de tener todo un texto de corrido, pero
+
+00:30:45.920 --> 00:30:52.160
+necesito yo generar un salto de línea y
+
+00:30:49.000 --> 00:30:58.360
+bueno, para eso tengo la etiqueta
+
+00:30:52.160 --> 00:31:04.320
+BR. Sí, esto genera un salto de línea.
+
+00:30:58.360 --> 00:31:04.320
+Fíjense que acá eh dónde estaba esto en
+
+00:31:04.880 --> 00:31:10.640
+eh Tenetour, ¿no? Se genera el salto de
+
+00:31:08.400 --> 00:31:13.520
+línea, ¿no? Que no es lo mismo que
+
+00:31:10.640 --> 00:31:16.360
+estamos generando acá en
+
+00:31:13.520 --> 00:31:22.200
+donde si generamos un nuevo un nuevo
+
+00:31:16.360 --> 00:31:22.200
+párrafo, una separación, ¿no? Ahora,
+
+00:31:22.960 --> 00:31:29.800
+generalmente, generalmente las etiquetas
+
+00:31:26.080 --> 00:31:34.280
+que nosotros trabajamos, ¿no? HTML,
+
+00:31:29.800 --> 00:31:37.120
+el title, ¿sí? El body,
+
+00:31:34.280 --> 00:31:39.120
+eh el párrafo, el título, generalmente
+
+00:31:37.120 --> 00:31:40.640
+son etiquetas que tienen apertura y
+
+00:31:39.120 --> 00:31:43.800
+cierre,
+
+00:31:40.640 --> 00:31:47.400
+¿no? Sin embargo, tenemos otro tipos de
+
+00:31:43.800 --> 00:31:49.400
+etiquetas como ser las metas, ¿no? O
+
+00:31:47.400 --> 00:31:51.960
+como ser BR.
+
+00:31:49.400 --> 00:31:55.240
+donde no tenemos etiqueta de apertura y
+
+00:31:51.960 --> 00:32:00.040
+cierre y esto tiene que ver con que no
+
+00:31:55.240 --> 00:32:03.080
+contiene nada. Sí, como no contiene nada
+
+00:32:00.040 --> 00:32:06.160
+no necesitan una etiqueta de cierre, no
+
+00:32:03.080 --> 00:32:07.720
+es por eso que escribir BR solo
+
+00:32:06.160 --> 00:32:10.480
+eh
+
+00:32:07.720 --> 00:32:15.040
+está bien. Sí, no, yo no no tengo no
+
+00:32:10.480 --> 00:32:18.280
+tengo la necesidad acá de escribir
+
+00:32:15.040 --> 00:32:22.760
+BR para cerrar esta etiqueta. Sí, si lo
+
+00:32:18.280 --> 00:32:22.760
+hago, fíce
+
+00:32:23.280 --> 00:32:26.520
+como que estoy haciend como que estoy
+
+00:32:24.880 --> 00:32:31.040
+escribiendo
+
+00:32:26.520 --> 00:32:34.240
+dos veces en este caso BR, ¿no?
+
+00:32:31.040 --> 00:32:39.240
+A ver, ¿cómo lo vemos acá?
+
+00:32:34.240 --> 00:32:41.600
+Hm hm. Vamos a verlo acá en vivo, ¿no?
+
+00:32:39.240 --> 00:32:45.760
+Este, acá está tenor. Sí, fíjense, yo
+
+00:32:41.600 --> 00:32:45.760
+voy a quitar una de las BR
+
+00:32:46.000 --> 00:32:56.080
+y tenemos acá tenor, ¿no? Ya tengo el
+
+00:32:51.320 --> 00:32:58.760
+salto de línea entre un párrafo y otro,
+
+00:32:56.080 --> 00:33:03.280
+pero eh no tengo la separación que
+
+00:32:58.760 --> 00:33:06.520
+cuando lo tenía recién. Sí.
+
+00:33:03.280 --> 00:33:09.640
+Ahora, esta este modo de escribir no es
+
+00:33:06.520 --> 00:33:13.320
+el correcto. Sí, en todo caso, en todo
+
+00:33:09.640 --> 00:33:15.800
+caso tendría que ser la barra al final.
+
+00:33:13.320 --> 00:33:19.480
+¿Por qué? Porque esta esta etiqueta como
+
+00:33:15.800 --> 00:33:23.360
+no tiene una etiqueta de cierre podría
+
+00:33:19.480 --> 00:33:26.560
+indicar al final que esta misma etiqueta
+
+00:33:23.360 --> 00:33:28.760
+contiene apertura y cierre de la misma.
+
+00:33:26.560 --> 00:33:30.720
+Sí, esta sería en todo caso la forma
+
+00:33:28.760 --> 00:33:33.440
+correcta si es que quieren ustedes
+
+00:33:30.720 --> 00:33:35.360
+agregar una barra que indique cómo
+
+00:33:33.440 --> 00:33:37.040
+escribir. Ahora, en el normal o en el
+
+00:33:35.360 --> 00:33:39.320
+cotidiano, ¿qué es lo que utilizamos?
+
+00:33:37.040 --> 00:33:44.040
+Solamente BR.
+
+00:33:39.320 --> 00:33:46.560
+Si no recuerdo mal, la claro. Sí. Así
+
+00:33:44.040 --> 00:33:48.000
+que eh
+
+00:33:46.560 --> 00:33:51.280
+ahí tiene las las diferentes
+
+00:33:48.000 --> 00:33:52.960
+alternativas. Hm. Bueno, hasta acá ido
+
+00:33:51.280 --> 00:33:55.320
+un poco explicando lo que son las
+
+00:33:52.960 --> 00:33:58.840
+etiquetas de base, por qué algunas sí
+
+00:33:55.320 --> 00:34:00.800
+abren, porque otras no. Eh, y justamente
+
+00:33:58.840 --> 00:34:03.120
+hago la aclaración porque me estuvieron
+
+00:34:00.800 --> 00:34:06.440
+consultando de esto al respecto, lo cual
+
+00:34:03.120 --> 00:34:09.800
+me parece genial porque quiere decir que
+
+00:34:06.440 --> 00:34:11.760
+estuvieron leyendo o tratando de eh ir
+
+00:34:09.800 --> 00:34:13.640
+un poquito más allá. ¿Sí? Entonces,
+
+00:34:11.760 --> 00:34:16.720
+hasta acá vamos a dejar este primer
+
+00:34:13.640 --> 00:34:19.800
+ejemplo. Y ahora sí vamos a generar un
+
+00:34:16.720 --> 00:34:23.480
+segundo ejemplo como para ir, vamos a
+
+00:34:19.800 --> 00:34:26.400
+poner eh como para ir un avanzando un
+
+00:34:23.480 --> 00:34:29.280
+poquito más. Sí, fíjense, vamos a crear
+
+00:34:26.400 --> 00:34:31.000
+un nuevo proyecto llamado ejemplo dos,
+
+00:34:29.280 --> 00:34:34.000
+el cual también va a tener su archivo
+
+00:34:31.000 --> 00:34:34.000
+index
+
+00:34:34.080 --> 00:34:38.680
+html,
+
+00:34:35.600 --> 00:34:41.480
+¿no? Y ya vamos acelerando un poquito
+
+00:34:38.680 --> 00:34:43.440
+acá como para que poder ver un poquito
+
+00:34:41.480 --> 00:34:46.920
+más lo que podríamos llegar a a
+
+00:34:43.440 --> 00:34:50.480
+trabajar. Sí, generamos el doct, podemos
+
+00:34:46.920 --> 00:34:52.240
+poner acá etiquetas,
+
+00:34:50.480 --> 00:34:55.840
+ettiquetas
+
+00:34:52.240 --> 00:34:59.000
+porque en sí es lo que vamos a ver. Sí.
+
+00:34:55.840 --> 00:35:02.680
+Eh, el documento pide dentro de un
+
+00:34:59.000 --> 00:35:05.520
+ejemplo práctico, ¿no?
+
+00:35:02.680 --> 00:35:07.720
+Pide dentro de un ejemplo práctico que
+
+00:35:05.520 --> 00:35:08.520
+generen diferentes tipos de etiquetas,
+
+00:35:07.720 --> 00:35:11.000
+¿sí?,
+
+00:35:08.520 --> 00:35:13.160
+que serían la estructura de el documento
+
+00:35:11.000 --> 00:35:15.720
+con el que nosotros vamos a trabajar,
+
+00:35:13.160 --> 00:35:19.240
+¿no? Dentro de esta estructura vamos a
+
+00:35:15.720 --> 00:35:22.520
+tener las etiquetas de header, ¿no? Lo
+
+00:35:19.240 --> 00:35:26.600
+cual indica
+
+00:35:22.520 --> 00:35:30.960
+eh la cabecera de dentro del sitio. Sí,
+
+00:35:26.600 --> 00:35:34.920
+vamos a tener etiquetas eh main. Ah, acá
+
+00:35:30.960 --> 00:35:38.720
+hay algo que fíce formas de de escribir,
+
+00:35:34.920 --> 00:35:41.080
+¿no? Una es abrir el pico paréntesis o
+
+00:35:38.720 --> 00:35:43.520
+el signo menor y luego escribir el
+
+00:35:41.080 --> 00:35:46.520
+nombre de la etiqueta. Sí, nombre de la
+
+00:35:43.520 --> 00:35:46.520
+etiqueta.
+
+00:35:46.720 --> 00:35:52.440
+Eh, bueno,
+
+00:35:49.880 --> 00:35:54.800
+ahí y cerrar y que se vaya generando,
+
+00:35:52.440 --> 00:35:58.160
+¿sí? O bien
+
+00:35:54.800 --> 00:36:02.240
+directamente, como ya eh Visual Studio
+
+00:35:58.160 --> 00:36:05.280
+sabe o entiende que hay algunos algunas
+
+00:36:02.240 --> 00:36:07.280
+palabras que son de referencia que
+
+00:36:05.280 --> 00:36:11.080
+vienen con el con lo que es la
+
+00:36:07.280 --> 00:36:13.640
+documentación de HTML 5, ¿no? Que ya si
+
+00:36:11.080 --> 00:36:15.480
+yo pongo la palabra main ya sabe que
+
+00:36:13.640 --> 00:36:19.720
+estoyendo generar una etiqueta de tipo
+
+00:36:15.480 --> 00:36:22.760
+main. Sí, si quiero generar una sección,
+
+00:36:19.720 --> 00:36:25.480
+una nueva sección, escribo section.
+
+00:36:22.760 --> 00:36:29.520
+Y esto lo que hace es generarme ya las
+
+00:36:25.480 --> 00:36:36.560
+etiquetas de apertura y de no
+
+00:36:29.520 --> 00:36:40.960
+eh un article, ¿sí? o bien un fotol,
+
+00:36:36.560 --> 00:36:44.280
+¿no? Esos son las etiquetas de base. Hm.
+
+00:36:40.960 --> 00:36:45.840
+Ahora, esto
+
+00:36:44.280 --> 00:36:48.960
+no nos va a mostrar nada porque todavía
+
+00:36:45.840 --> 00:36:51.400
+no tenemos nada en sí dentro de el
+
+00:36:48.960 --> 00:36:53.160
+documento, ¿no? Como que generamos
+
+00:36:51.400 --> 00:36:55.480
+etiquetas vacías, pero todavía no
+
+00:36:53.160 --> 00:36:57.000
+contienen nada en sí. Ahora, ¿cómo
+
+00:36:55.480 --> 00:37:00.480
+podemos hacer nosotros para saber que
+
+00:36:57.000 --> 00:37:02.920
+realmente esto generó algo? Sí. Acá yo
+
+00:37:00.480 --> 00:37:04.480
+me voy a adelantar un poquito. Clic
+
+00:37:02.920 --> 00:37:07.720
+derecho,
+
+00:37:04.480 --> 00:37:10.320
+inspeccionar inspector de elemento según
+
+00:37:07.720 --> 00:37:12.800
+el navegador que ustedes utilicen. O
+
+00:37:10.320 --> 00:37:17.240
+bien lo pueden buscar desde acá, eh,
+
+00:37:12.800 --> 00:37:19.760
+desde los tres puntitos del menú. Eh,
+
+00:37:17.240 --> 00:37:21.120
+inspector del evento.
+
+00:37:19.760 --> 00:37:23.760
+Ya no sé dónde está acá porque no lo uso
+
+00:37:21.120 --> 00:37:25.600
+nunca. Eh,
+
+00:37:23.760 --> 00:37:29.920
+en el menú de los tres puntitos tenés
+
+00:37:25.600 --> 00:37:29.920
+que ir a más herramientas.
+
+00:37:31.880 --> 00:37:36.680
+Las herramientas, eh herramientas para
+
+00:37:34.720 --> 00:37:40.320
+desarrollo, herramienta para desarrollo
+
+00:37:36.680 --> 00:37:44.280
+es porque acá les aparece distinto.
+
+00:37:40.320 --> 00:37:47.560
+Gracias. Má, sí, también pueden utilizar
+
+00:37:44.280 --> 00:37:51.080
+directamente la breveción F12 y nos
+
+00:37:47.560 --> 00:37:53.000
+genera la apertura de eh lo que les
+
+00:37:51.080 --> 00:37:55.760
+quiero mostrar justamente que en este
+
+00:37:53.000 --> 00:37:56.560
+caso es vamos a cerrar
+
+00:37:55.760 --> 00:37:58.680
+en elementos
+
+00:37:56.560 --> 00:38:00.760
+vendría a ser
+
+00:37:58.680 --> 00:38:03.720
+el contenido de nuestro tex de de
+
+00:38:00.760 --> 00:38:06.400
+nuestra página. Sí, inspeccionar F12 o
+
+00:38:03.720 --> 00:38:10.200
+control shift, no sé si es J, L o I la
+
+00:38:06.400 --> 00:38:13.120
+abreviación, eh, directamente F12. Y
+
+00:38:10.200 --> 00:38:16.000
+fíjense que acá me dice,
+
+00:38:13.120 --> 00:38:18.760
+acá me dice que yo tengo en la en la
+
+00:38:16.000 --> 00:38:22.120
+pestaña elementos
+
+00:38:18.760 --> 00:38:24.320
+que tengo un documento HTML, ¿no? Me
+
+00:38:22.120 --> 00:38:27.680
+muestra la estructura de lo que ya tengo
+
+00:38:24.320 --> 00:38:29.880
+yo en mi documento, ¿no? Tengo un body y
+
+00:38:27.680 --> 00:38:32.720
+dentro de este body tengo una etiqueta
+
+00:38:29.880 --> 00:38:34.760
+header, un main, un section, un article,
+
+00:38:32.720 --> 00:38:36.800
+un footer, que es exactamente lo que
+
+00:38:34.760 --> 00:38:39.880
+nosotros acabamos de crear. ¿Sí? De esta
+
+00:38:36.800 --> 00:38:43.000
+manera, yo me aseguro de que realmente
+
+00:38:39.880 --> 00:38:45.160
+el navegador está renderizando o
+
+00:38:43.000 --> 00:38:49.440
+mostrando lo que estamos escribiendo
+
+00:38:45.160 --> 00:38:53.840
+nosotros. Hm. En un primer ejercicio
+
+00:38:49.440 --> 00:38:56.160
+eh dentro de la propuesta que
+
+00:38:53.840 --> 00:38:58.080
+está en los ejercicios de práctica, van
+
+00:38:56.160 --> 00:39:00.640
+a tener que realizar esta estructura
+
+00:38:58.080 --> 00:39:02.280
+básica. ¿Sí?
+
+00:39:00.640 --> 00:39:04.640
+Eh,
+
+00:39:02.280 --> 00:39:09.040
+pero bueno, podríamos ir un poquito más
+
+00:39:04.640 --> 00:39:12.160
+allá, ¿no? Y generar, por ejemplo,
+
+00:39:09.040 --> 00:39:16.720
+salto de línea, cargar una etiente H1 y
+
+00:39:12.160 --> 00:39:19.280
+escribir acá lo que sería eh mi sitio,
+
+00:39:16.720 --> 00:39:21.960
+¿no? Entonces, ya tenemos empezamos a
+
+00:39:19.280 --> 00:39:23.800
+crear nuestro documento dentro de mail,
+
+00:39:21.960 --> 00:39:26.480
+¿no? Empezamos a crear nuestra página
+
+00:39:23.800 --> 00:39:28.080
+web, ¿no? Donde vamos a ver diferentes
+
+00:39:26.480 --> 00:39:30.120
+tipos de etiquetas que vamos a ir
+
+00:39:28.080 --> 00:39:33.120
+introduciendo dentro del main.
+
+00:39:30.120 --> 00:39:36.280
+Yo podría tener,
+
+00:39:33.120 --> 00:39:38.040
+¿por qué no?
+
+00:39:36.280 --> 00:39:40.760
+Una sección.
+
+00:39:38.040 --> 00:39:42.720
+Sí. ¿Cómo hago para moverme así, subir y
+
+00:39:40.760 --> 00:39:44.440
+bajar las etiquetas? Presiono la tecla
+
+00:39:42.720 --> 00:39:46.880
+Alt
+
+00:39:44.440 --> 00:39:48.280
+en la línea que quiero mover o en las
+
+00:39:46.880 --> 00:39:52.160
+líneas que quisiera mover, si es que
+
+00:39:48.280 --> 00:39:55.120
+quiero mover muchas líneas y
+
+00:39:52.160 --> 00:39:59.520
+lo voy acomodando. Sí, eso ahí como como
+
+00:39:55.120 --> 00:40:02.680
+tips. Entonces, dentro de yo ya tuvimos
+
+00:39:59.520 --> 00:40:06.480
+un H1, podría generar acá una etiqueta
+
+00:40:02.680 --> 00:40:10.760
+de tipo H2, donde
+
+00:40:06.480 --> 00:40:13.640
+podríamos generar, por ejemplo, eh
+
+00:40:10.760 --> 00:40:17.680
+una invitación
+
+00:40:13.640 --> 00:40:21.600
+invitación eh
+
+00:40:17.680 --> 00:40:21.600
+invitación este
+
+00:40:22.640 --> 00:40:26.080
+de vot
+
+00:40:24.400 --> 00:40:29.080
+invitación de voz o invitación a CL.
+
+00:40:26.080 --> 00:40:29.080
+claseción
+
+00:40:29.560 --> 00:40:32.720
+la clase,
+
+00:40:33.720 --> 00:40:40.560
+¿no? La clase eh talento tech.
+
+00:40:38.600 --> 00:40:43.520
+Sí.
+
+00:40:40.560 --> 00:40:46.680
+Y dentro de esto podemos agregar
+
+00:40:43.520 --> 00:40:48.240
+diferentes cosas. Incluso este H2 podría
+
+00:40:46.680 --> 00:40:50.520
+estar fuera del section, dentro del
+
+00:40:48.240 --> 00:40:52.040
+main, porque todo va a tener que ver con
+
+00:40:50.520 --> 00:40:54.960
+lo que nosotros querramos construir.
+
+00:40:52.040 --> 00:40:58.800
+Como no tenemos
+
+00:40:54.960 --> 00:41:02.040
+un bosquejo que seguir eh
+
+00:40:58.800 --> 00:41:06.040
+dictatoriamente o algo reglado, ces yo
+
+00:41:02.040 --> 00:41:09.640
+puedo escribir las etiquetas siempre que
+
+00:41:06.040 --> 00:41:11.840
+las abr, la cierra y respete una
+
+00:41:09.640 --> 00:41:13.600
+estructura. Yo puedo escribir dónde y
+
+00:41:11.840 --> 00:41:16.440
+cómo quiere. Esto puede estar incluso el
+
+00:41:13.600 --> 00:41:18.520
+H2, puede estar fuera del main o por qué
+
+00:41:16.440 --> 00:41:20.880
+no dentro del header también. Sí, vamos
+
+00:41:18.520 --> 00:41:24.280
+a ir escribiendo así invitación y dentro
+
+00:41:20.880 --> 00:41:26.520
+del section vamos a
+
+00:41:24.280 --> 00:41:30.560
+dar formato a esta invitación. Sí,
+
+00:41:26.520 --> 00:41:33.040
+podríamos poner acá un H3 que diga eh
+
+00:41:30.560 --> 00:41:35.360
+hoy
+
+00:41:33.040 --> 00:41:38.480
+clase
+
+00:41:35.360 --> 00:41:40.920
+de práctica.
+
+00:41:38.480 --> 00:41:43.560
+Sí.
+
+00:41:40.920 --> 00:41:47.240
+Y por qué no agregar un párrafo que
+
+00:41:43.560 --> 00:41:47.240
+diga, eh,
+
+00:41:47.320 --> 00:41:50.520
+te esperamos
+
+00:41:51.920 --> 00:41:59.640
+a las 20 horas. Hagar un nuevo párrafo
+
+00:41:56.880 --> 00:42:02.120
+que diga, "No falta, es decir, bien a lo
+
+00:41:59.640 --> 00:42:03.720
+cumpleañitos."
+
+00:42:02.120 --> 00:42:07.280
+Sí.
+
+00:42:03.720 --> 00:42:11.200
+Entonces, esto ya va tomando otra otra
+
+00:42:07.280 --> 00:42:14.240
+forma. Sí. Mi sitio, si bien no tiene
+
+00:42:11.200 --> 00:42:19.320
+nada bonito o nada vistoso, ya va
+
+00:42:14.240 --> 00:42:22.200
+tomando forma de algo, ¿no? Eh,
+
+00:42:19.320 --> 00:42:25.040
+y podemos sobre esto avanzar y construir
+
+00:42:22.200 --> 00:42:27.480
+un montón de cosas. Vamos a ver, por
+
+00:42:25.040 --> 00:42:31.000
+ahora todo es no importa lo que agregue
+
+00:42:27.480 --> 00:42:34.440
+o dónde lo agregue. Vamos a ver que
+
+00:42:31.000 --> 00:42:37.680
+todo lo cada etiqueta va a ir se va a ir
+
+00:42:34.440 --> 00:42:40.600
+agregando debajo de otra etiqueta. Sí,
+
+00:42:37.680 --> 00:42:43.040
+salvo algunas etiquetas especiales
+
+00:42:40.600 --> 00:42:46.680
+van a tener otro comportamiento donde
+
+00:42:43.040 --> 00:42:49.320
+nosotros podemos resaltar algo. Sí, pero
+
+00:42:46.680 --> 00:42:52.640
+en la práctica en lo general
+
+00:42:49.320 --> 00:42:55.040
+ese resaltado, ese
+
+00:42:52.640 --> 00:42:56.840
+esa indicación, cómo lo acomodo, cómo
+
+00:42:55.040 --> 00:42:59.680
+hago que se vea mejor, etcétera,
+
+00:42:56.840 --> 00:43:02.960
+etcétera, lo vamos a ver y lo vamos a
+
+00:42:59.680 --> 00:43:06.440
+trabajar cuando veamos hoja de estilo
+
+00:43:02.960 --> 00:43:10.320
+CSS, que por ahora lo que sí podemos ir
+
+00:43:06.440 --> 00:43:13.040
+haciendo es indicando algunas eh
+
+00:43:10.320 --> 00:43:16.040
+acciones, ¿no? A ver, por ejemplo, no
+
+00:43:13.040 --> 00:43:21.120
+faltes, yo podría
+
+00:43:16.040 --> 00:43:21.120
+cargarlo o agregarlo, ponerlo así,
+
+00:43:21.320 --> 00:43:28.080
+dentro de una etiqueta un strong.
+
+00:43:25.680 --> 00:43:31.080
+Sí. ¿Qué me va a permitir este strong?
+
+00:43:28.080 --> 00:43:33.560
+Ahí lo voy a cortar, lo voy a pegar. Y
+
+00:43:31.080 --> 00:43:38.080
+esto, fíjense, me acaba de poner como en
+
+00:43:33.560 --> 00:43:40.200
+negrita el no faltes. Sí.
+
+00:43:38.080 --> 00:43:43.240
+E
+
+00:43:40.200 --> 00:43:45.920
+no sé si se mejor en esto, ¿no? O
+
+00:43:43.240 --> 00:43:50.400
+podríamos haber hecho acá que quede
+
+00:43:45.920 --> 00:43:53.920
+mejor utilizar cursiva. Sí, no faltes.
+
+00:43:50.400 --> 00:43:57.520
+Eh eh clase práctica. Podríamos agregar
+
+00:43:53.920 --> 00:44:00.360
+a clase práctica. Vamos a ponerlo así.
+
+00:43:57.520 --> 00:44:04.240
+Vamos a agregar un subrayado. Sí.
+
+00:44:00.360 --> 00:44:05.920
+Entonces para eso voy a utilizar la
+
+00:44:04.240 --> 00:44:08.600
+etiqueta U.
+
+00:44:05.920 --> 00:44:11.120
+Y esto me va a generar un subrayado,
+
+00:44:08.600 --> 00:44:14.760
+¿no? Fíjando
+
+00:44:11.120 --> 00:44:14.760
+contenido extra
+
+00:44:15.080 --> 00:44:23.640
+por ir dándole un cierta vistosidad,
+
+00:44:19.640 --> 00:44:26.160
+podríamos decir, ¿no? Eh, pero repito,
+
+00:44:23.640 --> 00:44:28.120
+esto en la práctica, en la vida real, lo
+
+00:44:26.160 --> 00:44:32.280
+vamos a trabajar específicamente con
+
+00:44:28.120 --> 00:44:34.240
+hojas de estilo, ¿sí? con CSS. No, no,
+
+00:44:32.280 --> 00:44:37.000
+no se coma la cabeza ahora tratando de
+
+00:44:34.240 --> 00:44:40.360
+aprenderse todas las las etiquetas
+
+00:44:37.000 --> 00:44:44.600
+porque no a esta altura no tiene mucho
+
+00:44:40.360 --> 00:44:47.480
+sentido eso. Vamos a quitar
+
+00:44:44.600 --> 00:44:50.000
+el 20 horas. Sí, me parece un poco más
+
+00:44:47.480 --> 00:44:52.480
+importante como hacer énfasis en la hora
+
+00:44:50.000 --> 00:44:55.040
+en la cual se generaría la invitación.
+
+00:44:52.480 --> 00:44:57.080
+Sí, pero bueno, ahí como para ir
+
+00:44:55.040 --> 00:44:59.680
+agregando un poco de contenido y viendo
+
+00:44:57.080 --> 00:45:03.240
+un poquito más de eh diferentes
+
+00:44:59.680 --> 00:45:06.400
+etiquetas. Sí, también podríamos agregar
+
+00:45:03.240 --> 00:45:10.880
+aquí generar un un artículo, ¿por qué
+
+00:45:06.400 --> 00:45:14.040
+no? Sí, que podría estar dentro de una
+
+00:45:10.880 --> 00:45:16.240
+de una sección, ¿no? Es más, considero
+
+00:45:14.040 --> 00:45:18.520
+que sí sería
+
+00:45:16.240 --> 00:45:21.680
+importante que el artículo esté dentro
+
+00:45:18.520 --> 00:45:23.560
+de la sección y y no esté la sección eh
+
+00:45:21.680 --> 00:45:28.200
+un artículo suelto, ¿no?, sino que esté
+
+00:45:23.560 --> 00:45:32.360
+dentro de algo eh para que tenga de
+
+00:45:28.200 --> 00:45:34.840
+alguna manera cierto cierto valor. ¿Sí?
+
+00:45:32.360 --> 00:45:37.200
+Entonces acá podríamos
+
+00:45:34.840 --> 00:45:40.200
+elegir o crear
+
+00:45:37.200 --> 00:45:40.200
+h
+
+00:45:41.640 --> 00:45:46.840
+no un artículo aislado, ¿sí? Un artículo
+
+00:45:44.080 --> 00:45:48.840
+aislado a lo que es el el sitio, ¿no?
+
+00:45:46.840 --> 00:45:53.800
+Podría ser.
+
+00:45:48.840 --> 00:45:53.800
+Pongamos de nuevo, eh, no
+
+00:45:53.840 --> 00:45:58.600
+correr dentro del artículo. Vamos a
+
+00:45:56.480 --> 00:46:02.800
+poner un H2,
+
+00:45:58.600 --> 00:46:05.680
+¿sí? que nos muestre, por ejemplo, el
+
+00:46:02.800 --> 00:46:07.800
+contenido. Sí.
+
+00:46:05.680 --> 00:46:10.440
+O a ver,
+
+00:46:07.800 --> 00:46:13.800
+HTML. Sí. Entonces,
+
+00:46:10.440 --> 00:46:16.640
+este artículo va a tratar de HTML. Vamos
+
+00:46:13.800 --> 00:46:20.520
+a agregar un párrafo y si acá vamos a
+
+00:46:16.640 --> 00:46:24.800
+poner que es un lenguaje de mercado,
+
+00:46:20.520 --> 00:46:27.800
+eh, lenguaje de mercado para escritura,
+
+00:46:24.800 --> 00:46:27.800
+¿no?
+
+00:46:32.520 --> 00:46:37.360
+Vamos a saltar y vamos a agregar ahora.
+
+00:46:39.760 --> 00:46:45.280
+Sí. Eh, Mauro,
+
+00:46:43.600 --> 00:46:47.400
+sí. ¿Qué tal? Buenas noches. Una
+
+00:46:45.280 --> 00:46:49.760
+consulta. Pues ya me tengo que ir. Esto
+
+00:46:47.400 --> 00:46:52.160
+lo vamos a ver el martes que viene.
+
+00:46:49.760 --> 00:46:54.400
+Sí, vamos a seguir viendo el martes que
+
+00:46:52.160 --> 00:46:56.680
+viene. Sí, vamos a avanzar un poco más.
+
+00:46:54.400 --> 00:46:58.120
+Por ahora son etiquetas básicas.
+
+00:46:56.680 --> 00:47:00.520
+Dale, dale, dale, porque justo ahora me
+
+00:46:58.120 --> 00:47:01.040
+tengo que tengo que salir y bueno, por
+
+00:47:00.520 --> 00:47:02.840
+eso.
+
+00:47:01.040 --> 00:47:05.400
+Tranquilo, tranquilo. Igual queda
+
+00:47:02.840 --> 00:47:07.920
+grabado, así que después podés terminar
+
+00:47:05.400 --> 00:47:10.280
+de verlo lo que nos queda. Quedan 10
+
+00:47:07.920 --> 00:47:11.840
+minutitos, así que tranqui. ¿Lo subís
+
+00:47:10.280 --> 00:47:14.440
+por el Discord?
+
+00:47:11.840 --> 00:47:15.480
+Sí, lo subo al enlace del canal de
+
+00:47:14.440 --> 00:47:17.600
+Discord. Igual está dentro de la
+
+00:47:15.480 --> 00:47:18.040
+playlist, pero lo subo, lo subo.
+
+00:47:17.600 --> 00:47:20.920
+Tranquilo.
+
+00:47:18.040 --> 00:47:22.000
+Dale, después más tarde lo voy a mirar.
+
+00:47:20.920 --> 00:47:24.000
+Dale.
+
+00:47:22.000 --> 00:47:27.320
+Gracias. Sí, buenas noches.
+
+00:47:24.000 --> 00:47:29.400
+Que esté bien. Bueno, entonces acá,
+
+00:47:27.320 --> 00:47:31.640
+bueno, hasta ahí nada más porque si no
+
+00:47:29.400 --> 00:47:34.360
+eh ya vamos a nombrar cosas que todavía
+
+00:47:31.640 --> 00:47:38.120
+no vimos, pero sí podría agregar acá,
+
+00:47:34.360 --> 00:47:41.240
+fíjense, podría agregar
+
+00:47:38.120 --> 00:47:45.480
+que es eh lenguaje marcado. Sí, vamos a
+
+00:47:41.240 --> 00:47:45.480
+agregar esto. Una etiqueta spam.
+
+00:47:45.720 --> 00:47:50.200
+Hm.
+
+00:47:46.960 --> 00:47:52.400
+lenguaje marcado.
+
+00:47:50.200 --> 00:47:55.000
+Fíj, agregó una etiqueta, pero no hizo
+
+00:47:52.400 --> 00:47:59.080
+nada, ¿no?
+
+00:47:55.000 --> 00:48:03.400
+¿Por qué? Porque el la etiqueta spam se
+
+00:47:59.080 --> 00:48:07.960
+lo utiliza por lo general para eh marcar
+
+00:48:03.400 --> 00:48:10.680
+o hacer referencia a algo que pudiera eh
+
+00:48:07.960 --> 00:48:13.840
+que nosotros pudiéramos querer eh
+
+00:48:10.680 --> 00:48:16.680
+destacar dentro del documento,
+
+00:48:13.840 --> 00:48:20.400
+que lo vamos a ver o o vamos a dar ese
+
+00:48:16.680 --> 00:48:23.160
+destaque cuando trabajemos justamente
+
+00:48:20.400 --> 00:48:25.280
+estilos. Sí, por ahora no
+
+00:48:23.160 --> 00:48:26.960
+estructuralmente no nos cambia nada.
+
+00:48:25.280 --> 00:48:29.360
+estructuralmente no nos cambia nada,
+
+00:48:26.960 --> 00:48:33.160
+pero sí me permitiría acá, por ejemplo,
+
+00:48:29.360 --> 00:48:33.160
+eh agregar
+
+00:48:33.680 --> 00:48:40.720
+un estilo, ¿no? Esto lo vamos a ver
+
+00:48:37.880 --> 00:48:42.600
+después, ¿sí? Esto estaría agregando un
+
+00:48:40.720 --> 00:48:44.840
+atributo a la etiqueta. Sí, este
+
+00:48:42.600 --> 00:48:47.560
+atributo yo lo puedo agregar a cualquier
+
+00:48:44.840 --> 00:48:50.760
+etiqueta. Sí, a cualquier etiqueta. Y le
+
+00:48:47.560 --> 00:48:54.480
+voy a indicar un color.
+
+00:48:50.760 --> 00:48:57.000
+Sí, esto es como por ir eh agregándoles
+
+00:48:54.480 --> 00:49:00.560
+o mostrándoles lo que podríamos llegar a
+
+00:48:57.000 --> 00:49:02.800
+hacer. M. Fíjense, agregué color y
+
+00:49:00.560 --> 00:49:05.320
+tenemos acá que ahora dice lenguaje
+
+00:49:02.800 --> 00:49:07.280
+marcado en
+
+00:49:05.320 --> 00:49:09.280
+poner rojo.
+
+00:49:07.280 --> 00:49:11.680
+Eh,
+
+00:49:09.280 --> 00:49:15.320
+ya no está en negro como está todo el
+
+00:49:11.680 --> 00:49:18.400
+texto, ¿no? Acabamos de agregar un
+
+00:49:15.320 --> 00:49:20.880
+atributo a una etiqueta, en este caso de
+
+00:49:18.400 --> 00:49:22.520
+tipo spam para resaltar una parte del
+
+00:49:20.880 --> 00:49:26.240
+texto.
+
+00:49:22.520 --> 00:49:26.240
+Sí, José.
+
+00:49:26.280 --> 00:49:30.160
+Eh, Facundo, hasta ahora no sé si a lo
+
+00:49:28.200 --> 00:49:34.040
+mejor más adelante lo lo vas a dejar más
+
+00:49:30.160 --> 00:49:37.200
+claro, pero no logro ver la diferencia
+
+00:49:34.040 --> 00:49:38.400
+entre el artículo y otro párrafo más, no
+
+00:49:37.200 --> 00:49:40.680
+sé.
+
+00:49:38.400 --> 00:49:42.360
+Claro. No, no es que justamente por
+
+00:49:40.680 --> 00:49:44.800
+ahora no lo vamos a ver, no vamos a
+
+00:49:42.360 --> 00:49:46.480
+notar la diferencia, pero estamos
+
+00:49:44.800 --> 00:49:49.600
+trabajando espacios totalmente
+
+00:49:46.480 --> 00:49:51.840
+diferentes. Sí, fíjense dentro de las
+
+00:49:49.600 --> 00:49:55.560
+etiquetas, vamos a checarlo esto para
+
+00:49:51.840 --> 00:49:57.880
+que se note mejor.
+
+00:49:55.560 --> 00:50:00.600
+dentro de las etiquetas, si ustedes se
+
+00:49:57.880 --> 00:50:03.000
+vienen acá al costado donde está la
+
+00:50:00.600 --> 00:50:05.560
+numeración, fíce que yo acá puedo
+
+00:50:03.000 --> 00:50:08.720
+achicar o agrandar,
+
+00:50:05.560 --> 00:50:12.000
+¿no?, las diferentes etiquetas, ¿no? Y
+
+00:50:08.720 --> 00:50:15.360
+qué ocurre acá puedo desplegar lo que es
+
+00:50:12.000 --> 00:50:17.280
+mi header o lo que es el main, ¿no?
+
+00:50:15.360 --> 00:50:20.000
+Fíjate que el main es un espacio
+
+00:50:17.280 --> 00:50:22.400
+totalmente independiente de lo que es la
+
+00:50:20.000 --> 00:50:26.360
+sección del artículo, ¿no? Entonces,
+
+00:50:22.400 --> 00:50:29.720
+esto yo lo puedo trabajar como algo
+
+00:50:26.360 --> 00:50:32.640
+totalmente ajeno a la sección del
+
+00:50:29.720 --> 00:50:36.240
+artículo. Y artículos yo podría tener un
+
+00:50:32.640 --> 00:50:38.480
+montón, ¿no? Que visualmente ahora no
+
+00:50:36.240 --> 00:50:41.040
+vamos a notar diferencia, pero yo aquí
+
+00:50:38.480 --> 00:50:42.600
+podría tener un artículo de HTML, uno de
+
+00:50:41.040 --> 00:50:46.120
+CSS,
+
+00:50:42.600 --> 00:50:48.920
+uno de eh JavaScript y así, ¿no?
+
+00:50:46.120 --> 00:50:54.680
+Entonces, ir identificando después, más
+
+00:50:48.920 --> 00:50:57.680
+adelante podría generar una especie de
+
+00:50:54.680 --> 00:51:01.600
+tarjetas con esto, ¿no? Como se ven en
+
+00:50:57.680 --> 00:51:03.960
+en los diferentes diarios periódicos,
+
+00:51:01.600 --> 00:51:06.720
+donde este artículo va a hacer
+
+00:51:03.960 --> 00:51:08.520
+referencia, va a generar un enlace hacia
+
+00:51:06.720 --> 00:51:10.600
+una página que me hable puramente de
+
+00:51:08.520 --> 00:51:12.440
+HTML, hacia una página que me hable
+
+00:51:10.600 --> 00:51:15.240
+puramente de CSS, hacia una página que
+
+00:51:12.440 --> 00:51:18.080
+me hable puramente de JavaScript y así,
+
+00:51:15.240 --> 00:51:21.600
+¿no? Simplemente me estaría indicando
+
+00:51:18.080 --> 00:51:24.400
+que tengo diferentes tipos de eh
+
+00:51:21.600 --> 00:51:26.840
+artículos
+
+00:51:24.400 --> 00:51:30.200
+dentro del documento. Ah, y acá ya que
+
+00:51:26.840 --> 00:51:30.200
+estamos, ¿sí?
+
+00:51:30.240 --> 00:51:38.880
+Eh, yo dije que etiqueta H1 debería
+
+00:51:33.600 --> 00:51:42.680
+tener una única etiqueta H1 cada sitio,
+
+00:51:38.880 --> 00:51:45.600
+¿no? Sin embargo, los artículos son los
+
+00:51:42.680 --> 00:51:48.000
+las únicas etiquetas que pueden tener
+
+00:51:45.600 --> 00:51:52.600
+una estructura similar, ¿no? Yo podría
+
+00:51:48.000 --> 00:51:55.320
+acá tener H1, H1, H1. Incluso podría
+
+00:51:52.600 --> 00:51:57.680
+tener hasta un fúerter acá.
+
+00:51:55.320 --> 00:51:59.600
+¿Por qué? Bueno, tiene que ver con el
+
+00:51:57.680 --> 00:52:01.120
+comportamiento estructural, digamos,
+
+00:51:59.600 --> 00:52:04.000
+semántico del de lo que es esta
+
+00:52:01.120 --> 00:52:05.960
+etiqueta. Sí. Es como que trabaja un
+
+00:52:04.000 --> 00:52:09.400
+bloquecito por separado, es como que
+
+00:52:05.960 --> 00:52:13.480
+estuviera incrustando algo externo. Hm.
+
+00:52:09.400 --> 00:52:17.520
+Eh, ya vamos a ver cuando avancemos un
+
+00:52:13.480 --> 00:52:20.520
+poco más, eh, y vamos a a
+
+00:52:17.520 --> 00:52:23.440
+estudiar otr algunos otras páginas para
+
+00:52:20.520 --> 00:52:26.640
+ver que realmente esto esta opción se
+
+00:52:23.440 --> 00:52:30.000
+cumple. Sí, pero es como una regla
+
+00:52:26.640 --> 00:52:32.080
+particular del artículo que puede tener
+
+00:52:30.000 --> 00:52:34.280
+un un H1, pero por ahora lo vamos a
+
+00:52:32.080 --> 00:52:37.280
+quitar. Vamos a dejarla.
+
+00:52:34.280 --> 00:52:39.480
+Eh, sí, Hernán,
+
+00:52:37.280 --> 00:52:43.280
+sí. ¿Cómo va? Eh, no, te quería
+
+00:52:39.480 --> 00:52:47.280
+preguntar eh lo más común por ahí es eh
+
+00:52:43.280 --> 00:52:50.120
+meter eh eh secciones eh junto con
+
+00:52:47.280 --> 00:52:52.120
+artículos dentro del main. Eso lo es lo
+
+00:52:50.120 --> 00:52:53.240
+más común que se hace cuando se arman
+
+00:52:52.120 --> 00:52:54.000
+las páginas.
+
+00:52:53.240 --> 00:52:57.200
+Sí.
+
+00:52:54.000 --> 00:52:59.360
+Sí, sí. Por eso que le dije, eh, quedaba
+
+00:52:57.200 --> 00:53:00.400
+raro el artículo suelto dentro de la
+
+00:52:59.360 --> 00:53:03.160
+página.
+
+00:53:00.400 --> 00:53:05.360
+Eh, generalmente está dentro de un
+
+00:53:03.160 --> 00:53:06.800
+bloque porque eh
+
+00:53:05.360 --> 00:53:09.440
+pero dentro del main, digo, o sea,
+
+00:53:06.800 --> 00:53:12.440
+generalmente es más común verlo un eh
+
+00:53:09.440 --> 00:53:16.560
+sección con un artículo dentro del main
+
+00:53:12.440 --> 00:53:20.320
+y lo y quizás, no sé, el un nave dentro
+
+00:53:16.560 --> 00:53:20.720
+del heer, eso es lo más común que se
+
+00:53:20.320 --> 00:53:23.360
+hace.
+
+00:53:20.720 --> 00:53:25.440
+Puede ser, puede ser, puede ser, sí. Eh,
+
+00:53:23.360 --> 00:53:27.360
+si bien cada página tiene, digamos, un
+
+00:53:25.440 --> 00:53:30.000
+formato, pero bueno, cuando uno ve
+
+00:53:27.360 --> 00:53:32.120
+página generalmente
+
+00:53:30.000 --> 00:53:34.760
+se se ve mucho eso por ahí tiene la
+
+00:53:32.120 --> 00:53:37.880
+se ve mucho
+
+00:53:34.760 --> 00:53:39.880
+fuera del del, es decir, del main,
+
+00:53:37.880 --> 00:53:42.480
+digamos, para mostrar como una barra al
+
+00:53:39.880 --> 00:53:44.520
+costado de otra información. Eh,
+
+00:53:42.480 --> 00:53:46.600
+generalmente se usa así, ¿no? Eh, o sea,
+
+00:53:44.520 --> 00:53:50.240
+la mayoría de las páginas o no sé, digo,
+
+00:53:46.600 --> 00:53:53.640
+se puede decir que porcentaj preguntas,
+
+00:53:50.240 --> 00:53:55.560
+ya les voy a tirar un tips de de para
+
+00:53:53.640 --> 00:53:59.040
+que vayan ustedes investigando y viendo
+
+00:53:55.560 --> 00:54:00.880
+por su cuenta cómo se generan o se
+
+00:53:59.040 --> 00:54:02.720
+construyen o se crean algunos algunos
+
+00:54:00.880 --> 00:54:06.360
+sitios, ¿sí?, en en los que ustedes por
+
+00:54:02.720 --> 00:54:08.280
+lo general se estén manejando. Sí. Eh,
+
+00:54:06.360 --> 00:54:11.040
+aprovechando esto del inspector del
+
+00:54:08.280 --> 00:54:12.800
+elemento. H Pero ahí, ¿para qué
+
+00:54:11.040 --> 00:54:14.160
+utilizamos el footer? Bueno, para pie de
+
+00:54:12.800 --> 00:54:17.200
+página, ¿qué es lo que utilizamos
+
+00:54:14.160 --> 00:54:23.080
+generalmente? Acá derecho de de autor,
+
+00:54:17.200 --> 00:54:25.000
+por ejemplo, sí, sería 2026, ¿no? Eh,
+
+00:54:23.080 --> 00:54:29.440
+dijimos también que podíamos agregar acá
+
+00:54:25.000 --> 00:54:33.160
+contactos, que podríamos agregar eh
+
+00:54:29.440 --> 00:54:34.840
+enlaces eh a distintos sitios que tengan
+
+00:54:33.160 --> 00:54:37.160
+que ver con con el autor
+
+00:54:34.840 --> 00:54:40.280
+específicamente, ¿no? Eh, lo que es
+
+00:54:37.160 --> 00:54:42.120
+WhatsApp, Instagram,
+
+00:54:40.280 --> 00:54:44.120
+etcétera, etcétera. Deers, sí, es lo que
+
+00:54:42.120 --> 00:54:47.160
+se suele utilizar dentro del futuro.
+
+00:54:44.120 --> 00:54:49.200
+Ahora, ya con esto cerramos. Sí, ya con
+
+00:54:47.160 --> 00:54:51.560
+esto cerramos.
+
+00:54:49.200 --> 00:54:54.400
+Volviendo a esto, ¿no? Inspector de
+
+00:54:51.560 --> 00:54:59.240
+elemento, inspeccionar F12 o control
+
+00:54:54.400 --> 00:55:02.160
+shift, eh, I, creo que era, ¿no?
+
+00:54:59.240 --> 00:55:03.760
+Ustedes acá pueden recorrer y visitar
+
+00:55:02.160 --> 00:55:06.960
+cualquier sitio que ustedes se les
+
+00:55:03.760 --> 00:55:08.840
+ocurre e ir revisando cómo están
+
+00:55:06.960 --> 00:55:12.840
+generados. Sí, yo voy a poner acá, voy a
+
+00:55:08.840 --> 00:55:15.640
+tirar una cosa, cualquier cosa. Ole.
+
+00:55:12.840 --> 00:55:18.560
+Inspector del evento
+
+00:55:15.640 --> 00:55:21.200
+y vengo
+
+00:55:18.560 --> 00:55:23.400
+la chica
+
+00:55:21.200 --> 00:55:24.680
+está medio caído. Me van a encontrar acá
+
+00:55:23.400 --> 00:55:27.440
+un montón de cosas que no van a
+
+00:55:24.680 --> 00:55:32.640
+entender. Tranquilo,
+
+00:55:27.440 --> 00:55:35.400
+ya lo van a ir viendo, pero eh
+
+00:55:32.640 --> 00:55:37.200
+pueden ir revisando. Sí, de hecho tienen
+
+00:55:35.400 --> 00:55:39.840
+esta herramienta que dice selector de
+
+00:55:37.200 --> 00:55:44.520
+elementos, que es esta flechita, ¿no?
+
+00:55:39.840 --> 00:55:47.880
+donde acá ustedes pueden ir se pueden ir
+
+00:55:44.520 --> 00:55:50.280
+desplazando por el por el sitio y donde
+
+00:55:47.880 --> 00:55:52.440
+ustedes se paren les va a decir qué es
+
+00:55:50.280 --> 00:55:56.400
+dónde están parados. Si yo acá me paré
+
+00:55:52.440 --> 00:55:58.640
+sobre esta opción y fíjese que dice que
+
+00:55:56.400 --> 00:56:01.120
+está dentro de una etiqueta DIP. ¿Qué es
+
+00:55:58.640 --> 00:56:04.080
+un DIP? Todavía no lo vimos, pero ya
+
+00:56:01.120 --> 00:56:06.280
+vamos a ver, ¿no? Y puedo comenzar a
+
+00:56:04.080 --> 00:56:07.920
+desplegar y a ver todo lo que este
+
+00:56:06.280 --> 00:56:11.120
+contiene, ¿no? Tiene un montón de cosas
+
+00:56:07.920 --> 00:56:13.720
+acá tiene una etiqueta A que no sé qué
+
+00:56:11.120 --> 00:56:15.480
+es todavía, ¿no? Pero tiene un montón de
+
+00:56:13.720 --> 00:56:17.800
+cosas interesantes como para ir
+
+00:56:15.480 --> 00:56:19.760
+estudiando y viendo cómo se construye.
+
+00:56:17.800 --> 00:56:24.680
+Obviamente
+
+00:56:19.760 --> 00:56:27.440
+todas estas etiquetas tienen eh
+
+00:56:24.680 --> 00:56:29.240
+no solo la implementación de HTML puro
+
+00:56:27.440 --> 00:56:34.000
+seco, ¿no? tiene un montón de otras
+
+00:56:29.240 --> 00:56:37.240
+cosas, pero eh como para ir viendo qué
+
+00:56:34.000 --> 00:56:39.120
+qué como para ir conociendo un poco las
+
+00:56:37.240 --> 00:56:40.200
+diferentes etiquetas con las que vamos a
+
+00:56:39.120 --> 00:56:42.440
+trabajar o con las que nos podemos
+
+00:56:40.200 --> 00:56:44.840
+llegar a encontrar. Sí, lo voy tirando
+
+00:56:42.440 --> 00:56:46.520
+así. Después vamos a ver en un poco más
+
+00:56:44.840 --> 00:56:50.120
+en profundidad esto que yo ahora le
+
+00:56:46.520 --> 00:56:51.880
+estoy tirando como un tips. Eh,
+
+00:56:50.120 --> 00:56:55.040
+si si quieren como curiosidad propia
+
+00:56:51.880 --> 00:56:59.920
+ustedes ir viendo esto, véanlo, viene
+
+00:56:55.040 --> 00:56:59.920
+bien. Eh, sí, eh, Luis.
+
+00:57:00.000 --> 00:57:05.400
+Sí, tenemos la posibilidad, digamos, el
+
+00:57:02.440 --> 00:57:07.560
+viso de estudios medio escueto, este,
+
+00:57:05.400 --> 00:57:10.400
+tenemos la posibilidad de hacer algo más
+
+00:57:07.560 --> 00:57:12.400
+gráficamente
+
+00:57:10.400 --> 00:57:14.120
+por ahora no.
+
+00:57:12.400 --> 00:57:15.960
+Por ahora no, porque no avanzamos mucho
+
+00:57:14.120 --> 00:57:18.600
+en las clases, o sea, tuvimos una sola
+
+00:57:15.960 --> 00:57:22.560
+clase, etiquetas básicas, pero si vamos
+
+00:57:18.600 --> 00:57:24.280
+a a ver un poco más. Eh, de hecho
+
+00:57:22.560 --> 00:57:28.080
+tenemos que ver más, tenemos que poder
+
+00:57:24.280 --> 00:57:31.160
+armar una página, un sitio completo.
+
+00:57:28.080 --> 00:57:35.160
+Así que sí, eh, en este momento no no
+
+00:57:31.160 --> 00:57:37.840
+podemos ver un poco más allá porque no.
+
+00:57:35.160 --> 00:57:40.160
+A ver, por un lado, la clase práctica no
+
+00:57:37.840 --> 00:57:42.320
+es para avanzar, no es para avanzar en
+
+00:57:40.160 --> 00:57:44.600
+contenido. Si
+
+00:57:42.320 --> 00:57:48.760
+si fuera necesario,
+
+00:57:44.600 --> 00:57:52.040
+eh, ya próximo a a presentación de de
+
+00:57:48.760 --> 00:57:53.840
+proyecto, sí, podemos podemos eh
+
+00:57:52.040 --> 00:57:55.720
+hablarlo con tiempo dentro de clase para
+
+00:57:53.840 --> 00:57:58.800
+que todo el mundo sepa.
+
+00:57:55.720 --> 00:58:01.320
+Eh, pero no no es la idea ir un poco más
+
+00:57:58.800 --> 00:58:02.960
+allá, es ir con lo que vamos viendo en
+
+00:58:01.320 --> 00:58:05.000
+clase.
+
+00:58:02.960 --> 00:58:06.640
+Claro, me refería a una herramienta
+
+00:58:05.000 --> 00:58:09.440
+visual, digamos, en vez de tener que
+
+00:58:06.640 --> 00:58:12.000
+escribir eh las etiquetas, digamos, el
+
+00:58:09.440 --> 00:58:14.840
+código escrito, tener que escribir
+
+00:58:12.000 --> 00:58:17.760
+texto, de poder este tener una
+
+00:58:14.840 --> 00:58:20.960
+herramientas y poder este seleccionar,
+
+00:58:17.760 --> 00:58:22.520
+por ejemplo, acá había poner este, no
+
+00:58:20.960 --> 00:58:24.520
+sé,
+
+00:58:22.520 --> 00:58:29.880
+un
+
+00:58:24.520 --> 00:58:29.880
+parf de poner una imagen, hab
+
+00:58:30.040 --> 00:58:31.920
+eh
+
+00:58:30.280 --> 00:58:32.840
+o sea, por herramientas, o sea,
+
+00:58:31.920 --> 00:58:35.000
+claro.
+
+00:58:32.840 --> 00:58:37.040
+visualmente, no escrito.
+
+00:58:35.000 --> 00:58:38.920
+Por eso le le les hacía yo la
+
+00:58:37.040 --> 00:58:41.160
+aclaración. Por ahora no tenemos que
+
+00:58:38.920 --> 00:58:43.760
+seguir nada, no tenemos ninguna regla a
+
+00:58:41.160 --> 00:58:45.800
+que apegarnos. Ahora, en la vida real
+
+00:58:43.760 --> 00:58:48.160
+uno sí sigue, tiene un esquema, tiene un
+
+00:58:45.800 --> 00:58:49.680
+diseño al cual se tiene que apegar
+
+00:58:48.160 --> 00:58:52.760
+rigurosamente.
+
+00:58:49.680 --> 00:58:54.880
+Eh, por el momento no tenemos nada, pero
+
+00:58:52.760 --> 00:58:57.600
+si es algo con lo que vamos a a
+
+00:58:54.880 --> 00:58:59.040
+trabajar. Después yo le ya con a medida
+
+00:58:57.600 --> 00:59:03.240
+que avancemos sí le voy a mostrar
+
+00:58:59.040 --> 00:59:06.720
+algunos eh proyectos reales con el
+
+00:59:03.240 --> 00:59:09.880
+diseño y vamos a ver cómo cómo se se
+
+00:59:06.720 --> 00:59:13.560
+construye eso, digamos. Sí. Eh, pero por
+
+00:59:09.880 --> 00:59:15.200
+el momento hasta acá
+
+00:59:13.560 --> 00:59:19.480
+sí, obvio, hay que tener paciencia un
+
+00:59:15.200 --> 00:59:22.120
+poco. Pasa que obviamente es lógico que
+
+00:59:19.480 --> 00:59:24.960
+hay hay algunos que tenemos más o menos
+
+00:59:22.120 --> 00:59:27.400
+conocimiento y por ahí estamos queremos
+
+00:59:24.960 --> 00:59:29.240
+todo de una, pero bueno, sí, obvio, esta
+
+00:59:27.400 --> 00:59:31.160
+es la una clase de práctica y no podemos
+
+00:59:29.240 --> 00:59:32.560
+avanzar y bueno, pero te puede pasar que
+
+00:59:31.160 --> 00:59:33.720
+hay alguien por ahí no lo entiende y
+
+00:59:32.560 --> 00:59:34.960
+bueno,
+
+00:59:33.720 --> 00:59:36.640
+claro, tal cual, tal cual
+
+00:59:34.960 --> 00:59:37.120
+el ritmo que queda, no queda otra. Es
+
+00:59:36.640 --> 00:59:39.760
+así,
+
+00:59:37.120 --> 00:59:42.000
+es así, es así. Sí, sí,
+
+00:59:39.760 --> 00:59:45.040
+el problema es que tenemos 16 clases, es
+
+00:59:42.000 --> 00:59:49.560
+como que es rescueto el tiempo,
+
+00:59:45.040 --> 00:59:51.440
+es es ajustado, pero créanme que vamos a
+
+00:59:49.560 --> 00:59:53.920
+llegar bien con los tiempos. Eh,
+
+00:59:51.440 --> 00:59:55.120
+el ABC por lo menos lo vas a entender y
+
+00:59:53.920 --> 00:59:56.800
+después te puedes sentar con
+
+00:59:55.120 --> 00:59:58.480
+inteligencia artificial y meterle.
+
+00:59:56.800 --> 01:00:01.240
+Claro. Bueno, eso eso es algo que lo
+
+00:59:58.480 --> 01:00:05.440
+vamos a charlar más adelante también.
+
+01:00:01.240 --> 01:00:09.280
+Eh, hoy por hoy no se escribe todo desde
+
+01:00:05.440 --> 01:00:12.480
+cero. Eh, de hecho, hay un montón de
+
+01:00:09.280 --> 01:00:14.240
+herramientas que te que te generan el
+
+01:00:12.480 --> 01:00:16.720
+código,
+
+01:00:14.240 --> 01:00:19.280
+pero tampoco tampoco es la manera de
+
+01:00:16.720 --> 01:00:20.920
+trabajar. Sí, tampoco porque si no
+
+01:00:19.280 --> 01:00:21.600
+sabemos qué es lo que estamos generando.
+
+01:00:20.920 --> 01:00:24.640
+Amaz
+
+01:00:21.600 --> 01:00:26.640
+en Amazon lo que pasó fue queo y
+
+01:00:24.640 --> 01:00:29.560
+empezaron con esto de que la
+
+01:00:26.640 --> 01:00:31.280
+inteligencia artificial reto que todo y
+
+01:00:29.560 --> 01:00:33.480
+les tiraron a la [ __ ] un montón de
+
+01:00:31.280 --> 01:00:34.600
+servicios y se demoró un día la entrega
+
+01:00:33.480 --> 01:00:34.880
+de paquetes.
+
+01:00:34.600 --> 01:00:37.240
+Sí.
+
+01:00:34.880 --> 01:00:38.920
+Hizo perder mucha plata Amazon.
+
+01:00:37.240 --> 01:00:43.200
+justamente
+
+01:00:38.920 --> 01:00:46.720
+eh esa noticia salió a la luz y se está
+
+01:00:43.200 --> 01:00:48.080
+volviendo, digamos, a a contratar gente
+
+01:00:46.720 --> 01:00:50.720
+porque la
+
+01:00:48.080 --> 01:00:51.280
+fue lo que tiró AWS la última vez que
+
+01:00:50.720 --> 01:00:52.880
+crashó
+
+01:00:51.280 --> 01:00:55.720
+sola,
+
+01:00:52.880 --> 01:00:58.240
+no va. necesita alguien que
+
+01:00:55.720 --> 01:00:59.520
+la vaya guiando y que vaya leyendo el
+
+01:00:58.240 --> 01:01:01.240
+código, pero para eso hay que saber qué
+
+01:00:59.520 --> 01:01:03.000
+es lo que está escribiendo, para eso hay
+
+01:01:01.240 --> 01:01:05.520
+que saber que hace cada etiqueta, cada
+
+01:01:03.000 --> 01:01:08.280
+funcionalidad, etcétera, etcétera. Así
+
+01:01:05.520 --> 01:01:09.440
+que sí, es una tarea.
+
+01:01:08.280 --> 01:01:11.000
+Hay que caminarte y correr.
+
+01:01:09.440 --> 01:01:14.400
+Hay que caminar, hay que caminar y
+
+01:01:11.000 --> 01:01:16.800
+después correr, tal cual.
+
+01:01:14.400 --> 01:01:18.960
+Bueno, gente, eh
+
+01:01:16.800 --> 01:01:20.800
+llegamos hasta acá hoy. Sí.
+
+01:01:18.960 --> 01:01:25.000
+Eh, gracias por haber venido, gracias
+
+01:01:20.800 --> 01:01:27.800
+por estar y nos encontramos el martes
+
+01:01:25.000 --> 01:01:30.840
+ya, así para avanzar en clase. Sí. Así
+
+01:01:27.800 --> 01:01:33.160
+que bueno, espero que les haya gustado y
+
+01:01:30.840 --> 01:01:34.400
+buen fine para los que ya tienen fine y
+
+01:01:33.160 --> 01:01:38.320
+para los que no, bueno, aprovechen lo
+
+01:01:34.400 --> 01:01:40.800
+que queda la semana. Nos vemos. Gracias.
+
+01:01:38.320 --> 01:01:40.800
+Yeah.
+

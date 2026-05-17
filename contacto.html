@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talento Tech - Homepage</title>
+    
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap">
+    
+    <!-- FONT AWSOME -->
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+    <!-- CSS del proyecto -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+
+<body>
+    <header class="header">
+      <a href="./index.html"><img class="logo" src="images/logo.png" alt="Talento Tech" /></a>
+        <button id="abrir" class="abrir-menu"><i class="bi bi-list"></i></button>
+        <nav class="nav" id="nav">
+            <button class="cerrar-menu" id="cerrar"><i class="bi bi-x"></i></button>
+            <ul>
+                <li><a href="./cursos.html">Cursos</a></li>
+                <li><a href="./cronograma.html">Cronograma</a></li>
+                <li><a href="./contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+    <img class="foto-inicial" src="images/inicial-wide.jpg" alt="Oficinas Talento Tech">
+    <h2>Contacto</h2>
+        <section>
+            <div class="contacto">
+                
+                <form action="#" method="POST">
+                    <fieldset>
+                        <legend>Registro de usuario - Ingrese sus datos</legend>
+                        <table class="form">
+                            <tr>
+                                <th>
+                                    <label for="nombres">Nombre</label><span class="required">*</span>
+                                </th>
+                                <td>
+                                    <input type="text" id="nombres" name="nomb" placeholder="Nombre completo" minlength="3" maxlength="30" required>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="apellidos">Apellido</label><span class="required">*</span>
+                                </th>
+                                <td>
+                                    <input type="text" id="apellidos" name="apell" placeholder="Apellidos" size="40" minlength="3" maxlength="30" required>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="email">Email</label><span class="required">*</span>
+                                </th>
+                                <td>
+                                    <input type="email" id="email" name="email" placeholder="usuario@example.com" title="Formato de correo inválido" required>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="telefono">Teléfono</label>
+                                </th>
+                                <td>
+                                    <input type="tel" id="telefono" name="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" title="Formato requerido: 123-456-7890">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="postal">Código Postal</label>
+                                </th>
+                                <td>
+                                    <input type="number" id="postal" name="postal" min="1000" max="99999">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="nacimiento">Fecha de Nacimiento</label>
+                                </th>
+                                <td>
+                                    <input type="date" id="nacimiento" name="nacimiento">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label>Formación inicial en programación</label>
+                                </th>
+                                <td class="flex">
+                                    <label for="opcion1_radio">
+                                        <input type="radio" name="formacion" id="opcion1_radio" value="si" checked> Sí
+                                    </label>
+                                    <label for="opcion2_radio">
+                                        <input type="radio" name="formacion" id="opcion2_radio" value="no"> No
+                                    </label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label>Selecciona la información que deseas</label>
+                                </th>
+                                <td>
+                                    <div class="flex">
+                                        <input type="checkbox" id="check_full_stack" name="info[]" value="Full Stack Developer">
+                                        <label for="check_deportes">Full Stack Developer</label>
+                                    </div>
+
+                                    <div class="flex">
+                                        <input type="checkbox" id="check_multimedia_ia" name="info[]" value="Multimedia con IA">
+                                        <label for="check_cocina">Multimedia con IA</label>
+                                    </div>
+
+                                    <div class="flex">
+                                        <input type="checkbox" id="check_ux_iu" name="info[]" value="UX/UI Designer">
+                                        <label for="check_info">UX/UI Designer</label>
+                                    </div>
+
+                                    <div class="flex">
+                                        <input type="checkbox" id="check_game_developer" name="info[]" value="Game Developer">
+                                        <label for="check_info">Game Developer</label>
+                                    </div>
+
+                                    <div class="flex">
+                                        <input type="checkbox" id="check_data_analyst" name="info[]" value="Data Analyst">
+                                        <label for="check_info">Data Analyst</label>
+                                    </div>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="ocupacion">Ocupación</label>
+                                </th>
+                                <td>
+                                    <select name="ocupa" id="ocupacion">
+                                        <option value="" disabled selected>Seleccione una opción</option>
+                                        <optgroup label="Estudia">
+                                            <option value="est_abogado">Estudiante de Informática</option>
+                                            <option value="est_ingeniero">Estudiante de Ingeniería</option>
+                                        </optgroup>
+                                        <optgroup label="Trabaja">
+                                            <option value="abogado">Informático</option>
+                                            <option value="ingeniero">Ingeniero</option>
+                                        </optgroup>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="imagen">Imagen de perfil</label>
+                                </th>
+                                <td>
+                                    <input type="file" accept="image/*" id="imagen" name="imagen">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="pass">Contraseña</label> <span class="required">*</span>
+                                </th>
+                                <td>                   
+                                    <input type="password" id="pass" name="pass" minlength="8" required> 
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="pass_confirm">Confirmar Contraseña</label><span class="required">*</span>
+                                </th>
+                                <td>
+                                    <input type="password" id="pass_confirm" name="pass_confirm" minlength="8" required>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>
+                                    <label for="descripcion">Comentarios</label>
+                                </th>
+                                <td>
+                                    <textarea name="descripcion" id="descripcion" style="width: 100%;" rows="4"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="legal flex"><span class="required">*</span>
+                                    <input type="checkbox" name="terminos" id="terminos" required>
+                                    <label for="terminos">Acepto términos y condiciones</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="actions flex">
+                                    <button type="reset">Limpiar Formulario</button>
+                                    <button type="submit">Enviar Registro</button>
+                                </td>
+                            </tr>
+                        </table>
+                    </fieldset>
+                </form>
+
+            </div>
+    </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="links">
+                <ul>
+                    <li><a href="" title="Preguntas frecuentes">Preguntas frecuentes</a></li>
+                    <li><a href="" title="Inscribite">Inscribite</a></li>
+                    <li><a href="" title="Salida Laboral">Salida Laboral</a></li>
+                </ul>
+            </div>
+            <div class="redes">
+            <i class="fa-brands fa-instagram"></i><i class="fa-brands fa-x-twitter"></i><i class="fa-brands fa-youtube"></i>
+            </div>
+        </div>
+    </footer>
+    
+</body>
+ 
+  <script  type="text/javascript"  src="js/script.js"></script>
+</html>
